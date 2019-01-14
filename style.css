@@ -34,7 +34,10 @@ h1{
 	padding: 10px 10px 10px 30px;
 	font: 11px/20px Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 }
-
+#contact #form input.submit{
+	padding: 0px;
+	width: 395px;
+}
 .logo{
 	display: block;
 	margin-left: auto;
