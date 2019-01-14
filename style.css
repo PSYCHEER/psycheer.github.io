@@ -7,6 +7,34 @@ h1{
 	text-align: center;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
+#contact{
+	overflow: auto;
+}
+
+#contact #form{
+	padding-top: 25px;
+	width: 410px;
+	float: none;
+}
+#contact #form h2{
+	font: 48px, Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+#contact #form span{
+	display: block;
+	float: left;
+	width: 100px;
+	padding-top: 5px;
+	font: 14px/16px Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+#contact #form input{
+	float:left;
+	width: 255px;
+	border:0px;
+	color:#F1F1F1;
+	padding: 10px 10px 10px 30px;
+	font: 11px/20px Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
 .logo{
 	display: block;
 	margin-left: auto;
