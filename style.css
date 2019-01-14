@@ -29,7 +29,7 @@ h1{
 #contact #form input{
 	float:left;
 	width: 255px;
-	border:0px;
+	border: 1px solid #575757;
 	color:#F1F1F1;
 	padding: 10px 10px 10px 30px;
 	font: 11px/20px Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
