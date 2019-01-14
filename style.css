@@ -19,16 +19,22 @@ h1{
 	margin: auto;
 }
 .facebook{
-	border-width: 0;
+	border-width: 0px;
 	background-color: #3b5998;
 	color: white;
 	margin: auto;
 }
 .youtube{
-	border-width: 0;
+	border-width: 0px;
 	background-color: #cc0000;
 	color: white;
 	margin: auto;
+}
+.youtube:hover{
+	border-width: 0px;
+}
+.facebook:hover{
+	border-width: 0px;
 }
 a{
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
