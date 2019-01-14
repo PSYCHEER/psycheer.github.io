@@ -18,18 +18,17 @@ h1{
 	display: table;
 	margin: auto;
 }
-.facebookbtn{
+.facebook{
 	background-color: #3b5998;
 	color: white;
 	display: table;
 	margin: auto;
 }
-.youtubebtn{
+.youtube{
 	background-color: #3b5998;
 	color: white;
 	display: table;
 	margin: auto;
-}
 }
 a{
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
