@@ -19,15 +19,15 @@ h1{
 	margin: auto;
 }
 .facebook{
+	border-width: 0;
 	background-color: #3b5998;
 	color: white;
-	display: table;
 	margin: auto;
 }
 .youtube{
-	background-color: #3b5998;
+	border-width: 0;
+	background-color: #cc0000;
 	color: white;
-	display: table;
 	margin: auto;
 }
 a{
