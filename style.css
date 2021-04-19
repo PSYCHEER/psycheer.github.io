@@ -71,7 +71,7 @@ a{
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	color: black;
 	text-decoration: none;
-	border-width: 1px;
+	border-width: 0px;
 	border-style: solid;
 	border-color: #E1E1E1;
 	background-color: #FFFFFF;
@@ -84,7 +84,7 @@ a:hover{
 	border-style: solid;
 	border-color: #BCBCBC;
 	background-color: #FFFFFF;
-	padding: 15px;
+	padding: 14px;
 }
 .footer{
 	position: fixed;
@@ -116,6 +116,7 @@ a:hover{
 	margin-left: auto;
 	margin-right: auto;
 	width: 95%;
-	height: 160px;
+	height: auto;
+	max-height: 160px;
 	overflow: hidden;
 }
