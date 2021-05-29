@@ -1,122 +1,157 @@
 /* CSS Document */
 
-body{
-	background-color: #ffffff;
-	}
-h1{
-	text-align: center;
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-}
-#contact{
-	overflow: auto;
+body {
+    background-color: #ffffff;
 }
 
-#contact #form{
-	padding-top: 25px;
-	width: 410px;
-	float: none;
+h1 {
+    text-align: center;
+    color: #000000;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
-#contact #form h2{
-	font: 48px, Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+
+#contact {
+    overflow: auto;
 }
-#contact #form span{
-	display: block;
-	float: left;
-	width: 100px;
-	padding-top: 5px;
-	font: 14px/16px Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+
+#contact #form {
+    padding-top: 25px;
+    width: 410px;
+    float: none;
 }
-#contact #form input{
-	float:left;
-	width: 255px;
-	border: 0px;
-	color:#6B6B6B;
-	padding: 10px 10px 10px 30px;
-	font: 11px/20px Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+
+#contact #form h2 {
+    font: 48px, Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 }
-#contact #form input.submit{
-	padding: 0px;
-	width: 395px;
+
+#contact #form span {
+    display: block;
+    float: left;
+    width: 100px;
+    padding-top: 5px;
+    font: 14px/16px Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 }
-.logo{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	border-radius: 10px;
+
+#contact #form input {
+    float: left;
+    width: 255px;
+    border: 0px;
+    color: #6B6B6B;
+    padding: 10px 10px 10px 30px;
+    font: 11px/20px Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 }
-.buttons{
-	padding-top: 25px;
-	display: table;
-	margin: auto;
+
+#contact #form input.submit {
+    padding: 0px;
+    width: 395px;
 }
-.facebook{
-	border-width: 0px;
-	background-color: #3b5998;
-	color: white;
-	margin: auto;
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
 }
-.youtube{
-	border-width: 0px;
-	background-color: #cc0000;
-	color: white;
-	margin: auto;
+
+.buttons {
+    padding-top: 25px;
+    display: table;
+    margin: auto;
 }
-.youtube:hover{
-	border-width: 0px;
+
+.facebook {
+    border-width: 0px;
+    background-color: #3b5998;
+    color: white;
+    margin: auto;
 }
-.facebook:hover{
-	border-width: 0px;
+
+.youtube {
+    border-width: 0px;
+    background-color: #cc0000;
+    color: white;
+    margin: auto;
 }
-a{
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-	color: black;
-	text-decoration: none;
-	border-width: 0px;
-	border-style: solid;
-	border-color: #E1E1E1;
-	background-color: #FFFFFF;
-	padding: 15px;
+
+.youtube:hover {
+    border-width: 0px;
 }
-a:hover{
-	color: black;
-	text-decoration: none;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #BCBCBC;
-	background-color: #FFFFFF;
-	padding: 14px;
+
+.facebook:hover {
+    border-width: 0px;
 }
-.footer{
-	position: fixed;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	background-color: #363636;
-	color: white;
-	width: 100%;
-	text-align: center;
+
+a {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    color: black;
+    text-decoration: none;
+    border-width: 0px;
+    border-style: solid;
+    border-color: #E1E1E1;
+    background-color: #FFFFFF;
+    padding: 15px;
 }
-.body{
-	margin-top: 25px;
-	margin-left: auto;
-	margin-right: auto;
-	width: 95%;
-	height: auto;
-	text-align: center;
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-	border-style: solid;
-	border-width: 1px;
-	border-color: #E1E1E1;
+
+a:hover {
+    color: black;
+    text-decoration: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #BCBCBC;
+    background-color: #FFFFFF;
+    padding: 14px;
 }
-.headimg{
-	border-style: solid;
-	border-width: 1px;
-	clip: rect(0px, 60px 200px, 0px);
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 95%;
-	height: auto;
-	max-height: 160px;
-	overflow: hidden;
+
+.footer {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #363636;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
+.body {
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    height: auto;
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    border-style: solid;
+    border-width: 1px;
+    border-color: #E1E1E1;
+}
+
+.headimg {
+    border-style: solid;
+    border-width: 1px;
+    clip: rect(0px, 60px 200px, 0px);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    height: auto;
+    max-height: 160px;
+    overflow: hidden;
+}
+
+.section {
+    border-style: solid;
+    border-width: 1px;
+    display: block;
+    width: 150px;
+    height: 50px;
+}
+
+.sectionimage {
+    border-style: solid;
+    border-right-width: 1px;
+    display: grid;
+    width: 50px;
+    height: 50px;
+    margin-left: 0;
 }
