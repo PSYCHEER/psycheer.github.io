@@ -9,19 +9,21 @@
   <body>
     <script>
       function openNav() {
-        document.getElementById("sidebar").style.transition = "width 0.5s";
+        document.getElementById("sidebar").style.transition =
+          "width 0.5s, padding 0.5s";
         document.getElementById("main-content").style.transition =
           "margin-left 0.5s";
         document.getElementById("sidebar").style.width = "240px";
         document.getElementById("sidebar").style.paddingLeft = "20px";
         document.getElementById("sidebar").style.paddingRight = "20px";
-        document.getElementById("main-content").style.marginLeft = "270px";
+        document.getElementById("main-content").style.marginLeft = "280px";
         document.getElementById("closebtn").style.display = "block";
         document.getElementById("openbtn").style.display = "none";
       }
 
       function closeNav() {
-        document.getElementById("sidebar").style.transition = "width 0.5s";
+        document.getElementById("sidebar").style.transition =
+          "width 0.5s, padding 0.5s";
         document.getElementById("main-content").style.transition =
           "margin-left 0.5s";
         document.getElementById("sidebar").style.width = "0";
@@ -33,27 +35,32 @@
       }
 
       window.onload = function () {
-        document.getElementById("sidebar").style.width = "240px";
-        document.getElementById("sidebar").style.paddingLeft = "20px";
-        document.getElementById("sidebar").style.paddingRight = "20px";
-        document.getElementById("main-content").style.marginLeft = "270px";
-        document.getElementById("closebtn").style.display = "block";
-        document.getElementById("openbtn").style.display = "none";
+        openNav();
       };
     </script>
-
     <div class="header">
-        <button id="closebtn" class="sidebarButton" onclick="closeNav()">☰</button>
-        <button id="openbtn" class="sidebarButton" onclick="openNav()">☰</button>
-      <img
-        id="profile"
-        class="profile"
-        src="https://avatars.githubusercontent.com/u/42911029?v=4"
-        alt="PSYCHEER"
-      />
-      <h1>PSYCHEER</h1>
-      <h3>Small human with huge dreams</h3>
-      <a href="https://github.com/PSYCHEER" target="_blank">GitHub</a>
+      <div class="sidebar-header">
+        <button id="closebtn" class="sidebarButton" onclick="closeNav()">
+          ☰
+        </button>
+        <button id="openbtn" class="sidebarButton" onclick="openNav()">
+          ☰
+        </button>
+        <img
+          id="profile"
+          class="profile"
+          src="https://avatars.githubusercontent.com/u/42911029?v=4"
+          alt="PSYCHEER"
+        />
+        <div class="profile-info">
+          <h1>PSYCHEER</h1>
+          <h3 class="motto">Small human with huge dreams</h3>
+        </div>
+      </div>
+      <div class="links">
+        <a href="https://github.com/PSYCHEER" target="_blank">GitHub</a>
+        <a href="https://bbb.crafttale.eu" target="_blank">Discord</a>
+      </div>
     </div>
     <div id="sidebar" class="sidebar">
       <a href="./index.html">Home</a>
