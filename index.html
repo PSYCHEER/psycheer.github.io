@@ -1,12 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./style.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
     <title>PSYCHEER</title>
-</head>
-<body>
-    <h1>PSYCHEER</h1>
-</body>
+  </head>
+  <body>
+    <script>
+      function openNav() {
+        document.getElementById("sidebar").style.transition = "width 0.5s";
+        document.getElementById("main-content").style.transition =
+          "margin-left 0.5s";
+        document.getElementById("sidebar").style.width = "240px";
+        document.getElementById("sidebar").style.paddingLeft = "20px";
+        document.getElementById("sidebar").style.paddingRight = "20px";
+        document.getElementById("main-content").style.marginLeft = "270px";
+        document.getElementById("closebtn").style.display = "block";
+        document.getElementById("openbtn").style.display = "none";
+      }
+
+      function closeNav() {
+        document.getElementById("sidebar").style.transition = "width 0.5s";
+        document.getElementById("main-content").style.transition =
+          "margin-left 0.5s";
+        document.getElementById("sidebar").style.width = "0";
+        document.getElementById("sidebar").style.paddingLeft = "0";
+        document.getElementById("sidebar").style.paddingRight = "0";
+        document.getElementById("main-content").style.marginLeft = "0";
+        document.getElementById("closebtn").style.display = "none";
+        document.getElementById("openbtn").style.display = "block";
+      }
+
+      window.onload = function () {
+        document.getElementById("sidebar").style.width = "240px";
+        document.getElementById("sidebar").style.paddingLeft = "20px";
+        document.getElementById("sidebar").style.paddingRight = "20px";
+        document.getElementById("main-content").style.marginLeft = "270px";
+        document.getElementById("closebtn").style.display = "block";
+        document.getElementById("openbtn").style.display = "none";
+      };
+    </script>
+
+    <div class="header">
+        <button id="closebtn" class="sidebarButton" onclick="closeNav()">☰</button>
+        <button id="openbtn" class="sidebarButton" onclick="openNav()">☰</button>
+      <img
+        id="profile"
+        class="profile"
+        src="https://avatars.githubusercontent.com/u/42911029?v=4"
+        alt="PSYCHEER"
+      />
+      <h1>PSYCHEER</h1>
+      <h3>Small human with huge dreams</h3>
+      <a href="https://github.com/PSYCHEER" target="_blank">GitHub</a>
+    </div>
+    <div id="sidebar" class="sidebar">
+      <a href="./index.html">Home</a>
+    </div>
+    <div id="main-content" class="main-content">
+      Hello, welcome to PSYCHEER. This is a website that provides mental health
+      support and resources.
+    </div>
+  </body>
 </html>
