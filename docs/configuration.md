@@ -1,5 +1,11 @@
+---
+title: "NovaBot Configuration"
+description: "Setting up the NovaBot"
+---
+
 # Configuration
 
+### Default configuration
 ```yaml title="config.yml" hl_lines="2"
 bot:
   version: "1.0.0" # Do not change this
@@ -25,3 +31,9 @@ bot:
 
 !!! warning "Do not change version"
     It's for bot to check which version is on and update config!
+
+### licensekey
+Your unique license key can be obtained on our Discord for NovaBot.
+Is needed for bot to start up.
+
+### mongoURI

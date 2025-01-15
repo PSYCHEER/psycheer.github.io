@@ -1,3 +1,6 @@
+---
+title: "PSYCHEER's Documentation"
+---
 # Welcome to PSYCHEER's Documentation
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).

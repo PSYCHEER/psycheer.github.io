@@ -8,7 +8,13 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.ico
   features:
+    - search.suggest
+    - search.highlight
+    - search.share
     - navigation.footer
+    - navigation.expand
+    - navigation.instant
+    - navigation.instant.prefetch
   palette:
     # Palette toggle for dark mode
     - scheme: slate
@@ -45,6 +51,16 @@ markdown_extensions:
       pygments_lang_class: true
   - admonition
   - pymdownx.details
+
+plugins:
+  - search
+  - toggle-sidebar:
+      async: True
+      javascript: ./toggle-sidebar.js
+      show_navigation_by_default: True
+      show_toc_by_default: True
+      toggle_button: navigation
+  - social
 
 extra:
   social:
