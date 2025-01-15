@@ -5,7 +5,7 @@ theme:
   custom_dir: overrides
   copyright: ''
   show_footer: false
-  logo: assets/profile.jpg
+  logo: assets/logo.png
   favicon: assets/favicon.ico
   features:
     - navigation.footer
