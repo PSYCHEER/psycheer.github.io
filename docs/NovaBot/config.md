@@ -58,7 +58,7 @@ Need to have enabled "Developer Mode" in Discord Settings.
 Custom text
 
 ### activity_type
-Playing|Streaming|Listening|Watching|Competing|Bubble|Cyclical
+`Playing|Streaming|Listening|Watching|Competing|Bubble|Cyclical`
   Bubble to show custom message as custom status message over bot's profile photo
   Cyclical to show multiple messages in a cycle within **duration** time range in **cycle settings**.
 !!! danger
