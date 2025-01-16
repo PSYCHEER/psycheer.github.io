@@ -1,7 +1,8 @@
 ---
 title: "PSYCHEER's Documentation"
+icon: material/home
 ---
-# Welcome to PSYCHEER's Documentation
+# :material-home: Welcome to PSYCHEER's Documentation
 
 This is the full documentation for NovaBot
 

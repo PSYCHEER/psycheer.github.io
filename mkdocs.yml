@@ -1,4 +1,4 @@
-site_name: PSYCHEER
+site_name: PSYCHEER's Documentations
 site_url: https://psycheer.github.io
 theme:
   name: material
@@ -11,6 +11,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - navigation.tracking
     - navigation.footer
     - navigation.expand
     - navigation.instant
@@ -68,3 +69,9 @@ extra:
       link: https://github.com/PSYCHEER
     - icon: fontawesome/brands/discord
       link: https://bbb.crafttale.eu
+
+nav:
+  - Home: index.md
+  - NovaBot:
+      - Setting up NovaBot: NovaBot/setup.md
+      - Configuration: NovaBot/config.md
