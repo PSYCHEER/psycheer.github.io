@@ -75,3 +75,7 @@ nav:
   - NovaBot:
       - Setting up NovaBot: NovaBot/setup.md
       - Configuration: NovaBot/config.md
+      - Addons:
+        - List: NovaBot/list.md
+        - Installation: NovaBot/addons.md
+        - Creation: NovaBot/addonCreation.md
