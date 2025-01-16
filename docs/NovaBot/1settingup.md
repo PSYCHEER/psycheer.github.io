@@ -3,7 +3,7 @@ title: Setting up the bot
 description: Guide for NovaBot set up
 ---
 
-# Setting Up a Discord Bot
+# :gear: Setting Up a Discord Bot
 
 ## Step 1: Create a Discord Application
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
