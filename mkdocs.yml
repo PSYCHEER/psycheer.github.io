@@ -53,7 +53,6 @@ markdown_extensions:
   - pymdownx.details
 
 plugins:
-  - typeset
   - search
   - toggle-sidebar:
       async: True
