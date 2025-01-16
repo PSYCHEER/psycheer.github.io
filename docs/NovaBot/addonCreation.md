@@ -1,4 +1,10 @@
-# **Add-on Creation**
+---
+title: Creation of Add-on
+description: Guide to Add-on system of NovaBot
+icon: material/format-paint
+---
+
+# :material-format-paint: **Add-on Creation**
 
 Doing addon for NovaBot is simple
 
@@ -21,7 +27,7 @@ NovaBot automatically register all commands inside of `commadns` folder and regi
 
 ## index.js
 
-```js title="Simple index.js"
+```js title="Simple index.js" linenums="1"
 async function myFunction(){
     console.log("Hello World!");
 }
@@ -40,7 +46,7 @@ These variables are important for NovaBot to have, so it can show in /reload and
 
 ## command.js
 
-```js title="Simple command.js"
+```js title="Simple command.js" linenums="1"
 const { SlashCommandBuilder, MessageFlags } = require("discord.js");
 
 const { myFunction } = require("../index.js");
@@ -63,7 +69,7 @@ module.exports = {
 This will create a simple slash (/) command for our bot which calls `myFunction` function which will say "Hello World!" into console.
 
 ## event.js
-```js title="Simple event"
+```js title="Simple event" linenums="1"
 
 module.exports = {
     name: "messageCreate",

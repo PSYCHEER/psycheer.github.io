@@ -8,6 +8,7 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.ico
   features:
+    - content.code.copy
     - search.suggest
     - search.highlight
     - search.share
