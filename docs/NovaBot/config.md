@@ -25,7 +25,7 @@ bot:
     duration: 10
   status: "idle"
   showStatistics: true
-  reloadCommandRoles: [""] # Array of roles which can do /reload command for addon configurations reload
+  reloadCommandRoles: [""]
 ```
 
 !!! warning "Do not change version"
