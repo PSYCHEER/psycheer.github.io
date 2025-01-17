@@ -8,7 +8,8 @@ icon: fontawesome/solid/gear
 
 ## **Prerequisites**
 * Discord Bot Server
-* `NodeJS 22` or newer (We don't recommend to use older versions as [NodeJS v22 is LTS](https://nodejs.org/en "Long Term Support"))
+* [NodeJS v22 is LTS](https://nodejs.org/en "Long Term Support") or newer
+* License [can be obtained on our Discord after purchase](https://bbb.crafttale.eu)
 
 ## **Steps to set up NovaBot**
 

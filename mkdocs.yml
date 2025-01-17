@@ -55,6 +55,9 @@ markdown_extensions:
   - pymdownx.details
 
 plugins:
+  - section-index
+  - literate-nav:
+      nav_file: NAV.md
   - search
   - toggle-sidebar:
       async: True
@@ -70,13 +73,3 @@ extra:
       link: https://github.com/PSYCHEER
     - icon: fontawesome/brands/discord
       link: https://bbb.crafttale.eu
-
-nav:
-  - Home: index.md
-  - NovaBot:
-      - Setting up NovaBot: NovaBot/setup.md
-      - Configuration: NovaBot/config.md
-      - Addons:
-        - List: NovaBot/list.md
-        - Installation: NovaBot/addons.md
-        - Creation: NovaBot/addonCreation.md

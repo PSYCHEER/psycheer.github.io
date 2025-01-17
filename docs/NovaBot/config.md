@@ -59,8 +59,10 @@ Custom text
 
 ### activity_type
 `Playing|Streaming|Listening|Watching|Competing|Bubble|Cyclical`
-  Bubble to show custom message as custom status message over bot's profile photo
-  Cyclical to show multiple messages in a cycle within **duration** time range in **cycle settings**.
+
+`Bubble` to show custom message as custom status message over bot's profile photo
+
+`Cyclical` to show multiple messages in a cycle within **duration** time range in **cycle settings**.
 !!! danger
     Very low values of `duration` can lead into temp-ban of bot due to rate-limits of Discord!
 
