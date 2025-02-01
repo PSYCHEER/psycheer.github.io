@@ -73,3 +73,10 @@ extra:
       link: https://github.com/PSYCHEER
     - icon: fontawesome/brands/discord
       link: https://bbb.crafttale.eu
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Spanish
+      link: /sp/
+      lang: fr
