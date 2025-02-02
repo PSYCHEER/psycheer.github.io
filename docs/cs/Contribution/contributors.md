@@ -1,15 +1,15 @@
 ---
-title: 'Contributors'
-description: 'List of contributors'
+title: 'Přispěvatelé'
+description: 'Seznam přispěvatelů'
 hide:
     - footer
 icon: material/translate
 ---
 
-# Contributors
+# Přispěvatelé
 
-[ReimaginedPixel](https://github.com/ReimaginedPixel) - Thank you for Polish translation.
+[ReimaginedPixel](https://github.com/ReimaginedPixel) - Děkujeme za polský překlad.
 
-Sistemas - Thank you for Spanish translation.
+Sistemas - Děkujeme za španělský překlad.
 
-Astaspasta - Thank you for testings.
+Astaspasta - Děkujeme za testování.

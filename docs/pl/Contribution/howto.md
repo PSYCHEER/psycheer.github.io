@@ -26,7 +26,7 @@ git clone https://github.com/PSYCHEER/psycheer.github.io.git
 cd psycheer.github.io
 ```
 
-# 3. Create a New Branch
+## 3. Create a New Branch
 
 Create a new branch to work on your changes.
 ```sh
@@ -35,13 +35,13 @@ git checkout -b my-new-branch
 
 Replace my-new-branch with a descriptive name for your branch.
 
-# 4. Edit Files
+## 4. Edit Files
 
 Make the necessary changes to the files. You can use any text editor or IDE to edit the files.
 ??? tip
     Our recommendation is [VS-Code](https://code.visualstudio.com)
 
-# 5. Commit Your Changes
+## 5. Commit Your Changes
 
 After making your changes, commit them to your branch.
 
@@ -50,7 +50,7 @@ git add .
 git commit -m "Description of the changes"
 ```
 
-# 6. Push Your Changes
+## 6. Push Your Changes
 
 Push your changes to your forked repository on GitHub.
 
@@ -58,7 +58,7 @@ Push your changes to your forked repository on GitHub.
 git push origin my-new-branch
 ```
 
-# 7. Create a Pull Request
+## 7. Create a Pull Request
 
 Finally, create a pull request to merge your changes into the original repository.
 

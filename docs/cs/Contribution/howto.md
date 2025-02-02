@@ -1,72 +1,73 @@
 ---
-title: 'How to contribute'
-description: 'Guide on how to contribute into wiki'
+title: 'Jak přispět'
+description: 'Průvodce, jak přispět do wiki'
 hide:
     - footer
 icon: material/github
 ---
 
-# How to contribute into GitHub
+# Jak přispět do GitHubu
 
-Contributing to our GitHub repository is a great way to help improve the project. Follow these steps to contribute:
+Přispívání do našeho GitHub repozitáře je skvělý způsob, jak pomoci zlepšit projekt. Postupujte podle těchto kroků:
 
-## 1. Fork the Repository
+## 1. Forkněte Repozitář
 
-First, you need to fork the repository. This creates a copy of the repository under your own GitHub account.
+Nejprve musíte forkout repozitář. Tím vytvoříte kopii repozitáře pod vaším vlastním GitHub účtem.
 
-1. Go to the repository: [PSYCHEER/psycheer.github.io](https://github.com/PSYCHEER/psycheer.github.io)
-2. Click on the "Fork" button in the top-right corner of the page.
+1. Přejděte na repozitář: [PSYCHEER/psycheer.github.io](https://github.com/PSYCHEER/psycheer.github.io)
+2. Klikněte na tlačítko "Fork" v pravém horním rohu stránky.
 
-## 2. Clone the Forked Repository
+## 2. Naklonujte Forknutý Repozitář
 
-Next, clone the forked repository to your local machine.
+Dále naklonujte forknutý repozitář do vašeho lokálního počítače.
 
 ```sh
 git clone https://github.com/PSYCHEER/psycheer.github.io.git
 cd psycheer.github.io
 ```
 
-# 3. Create a New Branch
+## 3. Vytvořte Novou Větev
 
-Create a new branch to work on your changes.
+Vytvořte novou větev, na které budete pracovat na svých změnách.
+
 ```sh
-git checkout -b my-new-branch
+git checkout -b moje-nova-vetv
 ```
 
-Replace my-new-branch with a descriptive name for your branch.
+Nahraďte `moje-nova-vetv` popisným názvem pro vaši větev.
 
-# 4. Edit Files
+## 4. Upravte Soubory
 
-Make the necessary changes to the files. You can use any text editor or IDE to edit the files.
+Proveďte potřebné změny v souborech. Můžete použít jakýkoli textový editor nebo IDE k úpravě souborů.
 ??? tip
-    Our recommendation is [VS-Code](https://code.visualstudio.com)
+    Naše doporučení je [VS-Code](https://code.visualstudio.com)
 
-# 5. Commit Your Changes
+## 5. Commitněte Vaše Změny
 
-After making your changes, commit them to your branch.
+Po provedení změn je commitněte do vaší větve.
 
 ```sh
 git add .
-git commit -m "Description of the changes"
+git commit -m "Popis změn"
 ```
 
-# 6. Push Your Changes
+## 6. Pushněte Vaše Změny
 
-Push your changes to your forked repository on GitHub.
+Pushněte vaše změny do vašeho forknutého repozitáře na GitHubu.
 
 ```sh
-git push origin my-new-branch
+git push origin moje-nova-vetv
 ```
 
-# 7. Create a Pull Request
+## 7. Vytvořte Pull Request
 
-Finally, create a pull request to merge your changes into the original repository.
+Nakonec vytvořte pull request, aby se vaše změny mohly sloučit do původního repozitáře.
 
-1. Go to your forked repository on GitHub.
-2. Click on the "Compare & pull request" button.
-3. Provide a title and description for your pull request.
-4. Click on the "Create pull request" button.
+1. Přejděte na váš forknutý repozitář na GitHubu.
+2. Klikněte na tlačítko "Compare & pull request".
+3. Poskytněte název a popis pro váš pull request.
+4. Klikněte na tlačítko "Create pull request".
 
-Your pull request will be reviewed, and if everything is in order, it will be merged into the main repository.
+Váš pull request bude zkontrolován a pokud bude vše v pořádku, bude sloučen do hlavního repozitáře.
 
-Thank you for contributing! 💖👑
+Děkujeme za váš příspěvek! 💖👑
