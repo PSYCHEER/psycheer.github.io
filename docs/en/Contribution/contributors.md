@@ -3,6 +3,7 @@ title: 'Contributors'
 description: 'List of contributors'
 hide:
     - footer
+icon: material/translate
 ---
 
 # Contributors

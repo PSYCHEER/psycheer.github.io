@@ -99,8 +99,9 @@ plugins:
               - 🏓 Introduction: en/ZynoBot - DontPing Addon/index.md
             - PsyMessagement:
               - 📦 Introduction: en/PsyMessagement/index.md
-            - Translations:
-              - Translators: en/Contribution/contributors.md
+            - Contribution:
+              - Contributors: en/Contribution/contributors.md
+              - How to contribute: en/Contribution/howto.md
         - locale: es
           name: Español
           site_name: Documentaciones de PSYCHEER
