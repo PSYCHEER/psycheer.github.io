@@ -29,3 +29,6 @@ Automatically in all tickets and you can configure in which channels it should b
     "warnmessage": "{MENTION} do not ping the staff!"
 }
 ```
+
+## Where to get
+This addon for ZynoBot can be downloaded [here](https://builtbybit.com/resources/dontping-zynobot-addon.49086/)
