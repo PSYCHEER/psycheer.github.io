@@ -1,5 +1,6 @@
 site_name: PSYCHEER's Documentations
 site_url: https://psycheer.github.io/
+site_author: PSYCHEER
 theme:
   name: material
   locale: en
@@ -81,6 +82,8 @@ plugins:
         - locale: en
           default: True
           name: English
+          copyright: Made with ❤️ by <a href="https://github.com/PSYCHEER">PSYCHEER</a>
+          site_name: PSYCHEER's Documentations
           nav:
             - Home: en/index.md
             - NovaBot:
@@ -94,6 +97,8 @@ plugins:
             - Timeline: en/timeline.md
         - locale: es
           name: Español
+          site_name: Documentaciones de PSYCHEER
+          copyright: Hecho con ❤️ por <a href="https://github.com/PSYCHEER">PSYCHEER</a>
           admonition_translations:
             success: Éxito
             tip: Consejo
@@ -111,6 +116,8 @@ plugins:
                 - Creación: es/NovaBot/addons/addonCreation.md
         - locale: pl
           name: Polski
+          site_name: Dokumentacje PSYCHEER
+          copyright: Wykonane z ❤️ przez <a href="https://github.com/PSYCHEER">PSYCHEER</a>
           admonition_translations:
             success: Sukces
             tip: Wskazówki
@@ -128,11 +135,12 @@ plugins:
                 - Tworzenie: pl/NovaBot/addons/addonCreation.md
         - locale: cs
           name: Česky
+          site_name: Dokumentace PSYCHEER
+          copyright: Vytvořeno s ❤️ od <a href="https://github.com/PSYCHEER">PSYCHEER</a>
           admonition_translations:
-            success: Éxito
-            tip: Consejo
-            warning: Advertencia
-            danger: Peligro
+            success: Úspěch
+            warning: Varování
+            danger: Nebezpečí
           nav:
             - Domů: cs/index.md
             - NovaBot:
