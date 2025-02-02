@@ -123,6 +123,14 @@ plugins:
                 - Listado: es/NovaBot/addons/list.md
                 - Creación: es/NovaBot/addons/addonCreation.md
               - Cronología: es/timeline.md
+            - ZynoBot DontPing Complemento:
+              - 🏓 Introducción: es/ZynoBot - DontPing Addon/index.md
+            - PsyMessagement:
+              - 📦 Introducción: es/PsyMessagement/index.md
+            - Contribución:
+              - Contribuyentes: es/Contribution/contributors.md
+              - Cómo contribuir: es/Contribution/howto.md
+
         - locale: pl
           name: Polski
           site_name: Dokumentacje PSYCHEER
@@ -143,6 +151,14 @@ plugins:
                 - Wykaz: pl/NovaBot/addons/list.md
                 - Tworzenie: pl/NovaBot/addons/addonCreation.md
               - Oś czasu: pl/timeline.md
+            - ZynoBot DontPing Dodatek:
+              - 🏓 Wprowadzenie: pl/ZynoBot - DontPing Addon/index.md
+            - PsyMessagement:
+              - 📦 Wprowadzenie: pl/PsyMessagement/index.md
+            - Wkład:
+              - Współtwórcy: pl/Contribution/contributors.md
+              - Jak przyczynić się: pl/Contribution/howto.md
+
         - locale: cs
           name: Česky
           site_name: Dokumentace PSYCHEER
@@ -166,6 +182,10 @@ plugins:
               - 🏓 Úvod: cs/ZynoBot - DontPing Addon/index.md
             - PsyMessagement:
               - 📦 Úvod: cs/PsyMessagement/index.md
+            - Příspěvek:
+                    - Přispěvatelé: cs/Contribution/contributors.md
+                    - Jak přispět: cs/Contribution/howto.md
+
   - git-revision-date-localized:
       type: datetime
   - git-committers:
