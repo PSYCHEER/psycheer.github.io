@@ -3,9 +3,10 @@ title: 'ZynoBot - DontPing Addon'
 description: 'ZynoBot - DontPing'
 hide:
     - footer
+icon: material/message-reply-text
 ---
 
-# :ping_pong: DontPing Addon
+# :material-message-reply-text: ZynoBot DontPing Addon
 
 Tired of all the pings from your community?
 Feel free to download the DontPing addon for ZynoBot!
@@ -28,3 +29,6 @@ Automatically in all tickets and you can configure in which channels it should b
     "warnmessage": "{MENTION} do not ping the staff!"
 }
 ```
+
+## Where to get
+This addon for ZynoBot can be downloaded [here](https://builtbybit.com/resources/dontping-zynobot-addon.49086/)

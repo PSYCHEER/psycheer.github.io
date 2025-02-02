@@ -100,9 +100,9 @@ plugins:
                 - Creation: en/NovaBot/addons/addonCreation.md
               - Timeline: en/timeline.md
             - ZynoBot DontPing Addon:
-              - 🏓 Introduction: en/ZynoBot - DontPing Addon/index.md
+              - Introduction: en/ZynoBot - DontPing Addon/index.md
             - PsyMessagement:
-              - 📦 Introduction: en/PsyMessagement/index.md
+              - Introduction: en/PsyMessagement/index.md
             - Contribution:
               - Contributors: en/Contribution/contributors.md
               - How to contribute: en/Contribution/howto.md
@@ -128,9 +128,9 @@ plugins:
                 - Creación: es/NovaBot/addons/addonCreation.md
               - Cronología: es/timeline.md
             - ZynoBot DontPing Complemento:
-              - 🏓 Introducción: es/ZynoBot - DontPing Addon/index.md
+              - Introducción: es/ZynoBot - DontPing Addon/index.md
             - PsyMessagement:
-              - 📦 Introducción: es/PsyMessagement/index.md
+              - Introducción: es/PsyMessagement/index.md
             - Contribución:
               - Contribuyentes: es/Contribution/contributors.md
               - Cómo contribuir: es/Contribution/howto.md
@@ -156,9 +156,9 @@ plugins:
                 - Tworzenie: pl/NovaBot/addons/addonCreation.md
               - Oś czasu: pl/timeline.md
             - ZynoBot DontPing Dodatek:
-              - 🏓 Wprowadzenie: pl/ZynoBot - DontPing Addon/index.md
+              - Wprowadzenie: pl/ZynoBot - DontPing Addon/index.md
             - PsyMessagement:
-              - 📦 Wprowadzenie: pl/PsyMessagement/index.md
+              - Wprowadzenie: pl/PsyMessagement/index.md
             - Wkład:
               - Współtwórcy: pl/Contribution/contributors.md
               - Jak przyczynić się: pl/Contribution/howto.md
@@ -183,9 +183,9 @@ plugins:
                 - Tvorba: cs/NovaBot/addons/addonCreation.md
               - Časová osa: cs/timeline.md
             - ZynoBot DontPing Doplnok:
-              - 🏓 Úvod: cs/ZynoBot - DontPing Addon/index.md
+              - Úvod: cs/ZynoBot - DontPing Addon/index.md
             - PsyMessagement:
-              - 📦 Úvod: cs/PsyMessagement/index.md
+              - Úvod: cs/PsyMessagement/index.md
             - Příspěvek:
                     - Přispěvatelé: cs/Contribution/contributors.md
                     - Jak přispět: cs/Contribution/howto.md

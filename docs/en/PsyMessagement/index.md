@@ -3,11 +3,11 @@ title: 'PsyMessagement'
 description: 'Introduction to PsyMessagement'
 hide:
     - footer
-icon: 
+icon: material/package
 ---
 
-# :package: PsyMessagement
-
+# :material-package: PsyMessagement
+## About plugin
 Currently is plugin built against 1.20 Paper API, possibility of working for lower versions, not tested, not primary.
 
 Plugin for custom Chat and Join/Leave messages.
@@ -59,5 +59,5 @@ Only for `format`:
 !!! warning
     Only MiniMessage is supported ex. <gold><bold>TEXT</gold></bold> <#FFAA00>SAMPLE</#FFAA00>. After permission change is needed to restart the server.
 
-### Where to get PsyMessagement
+## Where to get PsyMessagement
 PsyMessagement can be found for download [here](https://modrinth.com/plugin/psymessagement)

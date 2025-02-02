@@ -3,9 +3,10 @@ title: 'ZynoBot - DontPing Addon'
 description: 'ZynoBot - DontPing'
 hide:
     - footer
+icon: material/message-reply-text
 ---
 
-# :ping_pong: DontPing Addon
+# :material-message-reply-text: ZynoBot DontPing Addon
 
 Tired of all the pings from your community?
 Feel free to download the DontPing addon for ZynoBot!

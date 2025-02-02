@@ -3,9 +3,10 @@ title: 'ZynoBot - DontPing Addon'
 description: 'ZynoBot - DontPing'
 hide:
     - footer
+icon: material/message-reply-text
 ---
 
-# :ping_pong: DontPing Addon
+# :material-message-reply-text: ZynoBot DontPing Doplňek
 
 Jste unaveni ze všech pingů od vaší komunity?
 Neváhejte si stáhnout DontPing addon pro ZynoBot!
@@ -28,3 +29,5 @@ Automaticky ve všech tiketech a můžete nakonfigurovat, ve kterých kanálech 
     "warnmessage": "{MENTION} do not ping the staff!"
 }
 ```
+## Kde získat
+Tento doplněk pro ZynoBot si můžete stáhnout [zde](https://builtbybit.com/resources/dontping-zynobot-addon.49086/)

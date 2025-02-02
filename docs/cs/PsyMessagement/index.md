@@ -3,11 +3,11 @@ title: 'PsyMessagement'
 description: 'Introduction to PsyMessagement'
 hide:
     - footer
-icon: 
+icon: material/package
 ---
 
-# :package: PsyMessagement
-
+# :material-package: PsyMessagement
+## O pluginu
 Aktuálně je plugin postaven na 1.20 Paper API, je tu možnost fungování pro nižší verze, netestováno, není primární.
 
 Plugin pro vlastní zprávy v chatu a při připojení/odpojení.
@@ -27,7 +27,7 @@ Prefix permise `psymessagement` + suffix permise
 * psymessagement.admin - /reload příkaz
 * psymessagement.colors - permise pro používání MiniMessage komponentu ve zprávách.
 
-## Configuration
+## Konfigurace
 
 ```yml
 Messages:
@@ -59,5 +59,5 @@ Jenom pro `format`:
 !!! warning
     Podporován je pouze MiniMessage, např. <gold><bold>TEXT</gold></bold> <#FFAA00>SAMPLE</#FFAA00>. Po změně permisí je nutné restartovat server.
 
-### Where to get PsyMessagement
+## Kde získat
 PsyMessagement může být stažen [zde](https://modrinth.com/plugin/psymessagement)
