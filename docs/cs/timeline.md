@@ -7,14 +7,15 @@ hide:
 ---
 
 ::timeline::
+
 - content: Přidáno jako koncept na BuiltByBit.
   icon: ':simple-builtbybit:'
-  sub_title: 2025 Q1
+  sub_title: 02.02.2025
   title: Koncept!
 
 - content: Překlady a refaktorizace dokumentace pro NovaBot.
   icon: ':material-translate:'
-  sub_title: 2025 Q1
+  sub_title: 02.02.2025
   title: Překlady!
 
 - content: Vytvoření dokumentace.
