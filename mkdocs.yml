@@ -2,7 +2,10 @@ site_name: PSYCHEER's Documentations
 site_url: https://psycheer.github.io/
 site_author: PSYCHEER
 repo_url: https://github.com/PSYCHEER/psycheer.github.io
+repo_name: psycheer.github.io
 theme:
+  icon:
+    repo: fontawesome/brands/github
   name: material
   locale: en
   logo: assets/logo.png
@@ -103,7 +106,7 @@ plugins:
             - Contribution:
               - Contributors: en/Contribution/contributors.md
               - How to contribute: en/Contribution/howto.md
-              
+
         - locale: es
           name: Español
           site_name: Documentaciones de PSYCHEER
