@@ -75,6 +75,7 @@ plugins:
         - es
         - pl
   - social
+
   - i18n:
       docs_structure: folder
       languages:
@@ -98,6 +99,8 @@ plugins:
               - 🏓 Introduction: en/ZynoBot - DontPing Addon/index.md
             - PsyMessagement:
               - 📦 Introduction: en/PsyMessagement/index.md
+            - Contribution:
+              - Contributors: en/Contribution/contributors.md
         - locale: es
           name: Español
           site_name: Documentaciones de PSYCHEER
@@ -162,6 +165,10 @@ plugins:
             - PsyMessagement:
               - 📦 Úvod: cs/PsyMessagement/index.md
   - git-revision-date-localized
+  - git-committers:
+      repository: PSYCHEER/psycheer.github.io
+      branch: main
+      token: !ENV ["CI_JOB_TOKEN"]
 
 extra:
   generator: true
