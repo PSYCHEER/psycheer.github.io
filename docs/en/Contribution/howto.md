@@ -1,6 +1,8 @@
 ---
 title: 'How to contribute'
 description: 'Guide on how to contribute into wiki'
+hide:
+    - footer
 icon: material/github
 ---
 
