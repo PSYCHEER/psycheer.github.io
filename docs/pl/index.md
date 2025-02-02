@@ -2,6 +2,8 @@
 title:  Dokumentacja PSYCHEER"
 description: "Strona główna"
 icon: material/home
+hide:
+  - footer
 ---
 # :material-home: Witamy w dokumentacji PSYCHEER
 Jako że GitHub pozwala ci mieć strony przypisane do nazwy albo nazwy organizacji, a ja nie chcę bezużytecznie wydawać pieniędzy na domeny, chcę zatrzymać tę stronę jako https://psycheer.github.io jako dokumentację dla wszystkich moich produktów, w tym **NovaBot** jako mój najbardziej zaawansowany kod.

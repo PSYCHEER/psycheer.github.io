@@ -47,10 +47,10 @@ If you'll need a help with setting up a Mongo Cluster for bot (database), feel f
 Bot's name. Can be set on whatever, but it will change name setting in "General Informations" in Discord Developer Portal
 
 ### token
-Token can be obtained in [here](https://psycheer.github.io/novabot/setup)
+Token can be obtained in [here](./setup.md).
 
 ### app_id
-ApplicationID can be obtained in [here](https://psycheer.github.io/novabot/setup)
+ApplicationID can be obtained in [here](./setup.md).
 
 ### guild
 GuildID can be obtained from Discord.

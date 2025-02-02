@@ -9,6 +9,7 @@ icon: fontawesome/solid/gear
 ## **Prerequisites**
 * Discord Bot Server
 * [NodeJS v22 is LTS](https://nodejs.org/en "Long Term Support") or newer
+* Minimum of 256MB of RAM for the bot to operate.
 * License [can be obtained on our Discord after purchase](https://bbb.crafttale.eu)
 
 ## **Steps to set up NovaBot**
@@ -64,6 +65,10 @@ icon: fontawesome/solid/gear
 
 ### Final: Run Your Bot
 In your terminal, run `node index.js`.
+
+ <!-- Do not translate "Pterodactyl Panel", only underneath -->
+??? tip "Pterodactyl Panel"
+    For Pterodactyl panel type `index.js` into `Main file` in `Startup` tab.
 
 !!! success
     That's it! You have successfully set up your NovaBot.

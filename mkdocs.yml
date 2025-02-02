@@ -15,7 +15,6 @@ theme:
     - navigation.footer
     - navigation.top
     - navigation.path
-    - navigation.expand
     - navigation.sections
   palette:
     # Palette toggle for dark mode
@@ -94,7 +93,11 @@ plugins:
                 - Installation: en/NovaBot/addons/addons.md
                 - List: en/NovaBot/addons/list.md
                 - Creation: en/NovaBot/addons/addonCreation.md
-            - Timeline: en/timeline.md
+              - Timeline: en/timeline.md
+            - ZynoBot DontPing Addon:
+              - 🏓 Introduction: en/ZynoBot - DontPing Addon/index.md
+            - PsyMessagement:
+              - 📦 Introduction: en/PsyMessagement/index.md
         - locale: es
           name: Español
           site_name: Documentaciones de PSYCHEER
@@ -114,6 +117,7 @@ plugins:
                 - Instalación: es/NovaBot/addons/addons.md
                 - Listado: es/NovaBot/addons/list.md
                 - Creación: es/NovaBot/addons/addonCreation.md
+              - Cronología: es/timeline.md
         - locale: pl
           name: Polski
           site_name: Dokumentacje PSYCHEER
@@ -133,6 +137,7 @@ plugins:
                 - Instalacja: pl/NovaBot/addons/addons.md
                 - Wykaz: pl/NovaBot/addons/list.md
                 - Tworzenie: pl/NovaBot/addons/addonCreation.md
+              - Oś czasu: pl/timeline.md
         - locale: cs
           name: Česky
           site_name: Dokumentace PSYCHEER
@@ -147,10 +152,15 @@ plugins:
               - Proč si zvolit NovaBot: cs/NovaBot/novaIndex.md
               - Nastavení bota: cs/NovaBot/setup.md
               - Konfigurace: cs/NovaBot/config.md
-              - Přídavky:
+              - Doplňky:
                 - Instalace: cs/NovaBot/addons/addons.md
                 - Seznam: cs/NovaBot/addons/list.md
                 - Tvorba: cs/NovaBot/addons/addonCreation.md
+              - Časová osa: cs/timeline.md
+            - ZynoBot DontPing Doplnok:
+              - 🏓 Úvod: cs/ZynoBot - DontPing Addon/index.md
+            - PsyMessagement:
+              - 📦 Úvod: cs/PsyMessagement/index.md
   - git-revision-date-localized
 
 extra:

@@ -3,6 +3,8 @@ title: "PSYCHEER's Documentation"
 description: "Landing site"
 icon: material/home
 nav: Home
+hide:
+  - footer
 ---
 # :material-home: Welcome to PSYCHEER's Documentation
 
