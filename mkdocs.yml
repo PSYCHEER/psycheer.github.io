@@ -99,6 +99,8 @@ plugins:
               - 🏓 Introduction: en/ZynoBot - DontPing Addon/index.md
             - PsyMessagement:
               - 📦 Introduction: en/PsyMessagement/index.md
+            - Translations:
+              - Translators: en/Contribution/contributors.md
         - locale: es
           name: Español
           site_name: Documentaciones de PSYCHEER
@@ -162,7 +164,8 @@ plugins:
               - 🏓 Úvod: cs/ZynoBot - DontPing Addon/index.md
             - PsyMessagement:
               - 📦 Úvod: cs/PsyMessagement/index.md
-  - git-revision-date-localized
+  - git-revision-date-localized:
+      type: datetime
   - git-committers:
       repository: PSYCHEER/psycheer.github.io
       branch: main
