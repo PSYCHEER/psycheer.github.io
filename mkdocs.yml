@@ -98,6 +98,7 @@ plugins:
                 - Installation: en/NovaBot/addons/addons.md
                 - List: en/NovaBot/addons/list.md
                 - Creation: en/NovaBot/addons/addonCreation.md
+              - FAQ: en/NovaBot/faq.md
               - Timeline: en/timeline.md
             - ZynoBot DontPing Addon:
               - Introduction: en/ZynoBot - DontPing Addon/index.md
@@ -126,6 +127,7 @@ plugins:
                 - Instalación: es/NovaBot/addons/addons.md
                 - Listado: es/NovaBot/addons/list.md
                 - Creación: es/NovaBot/addons/addonCreation.md
+              - FAQ: es/NovaBot/faq.md
               - Cronología: es/timeline.md
             - ZynoBot DontPing Complemento:
               - Introducción: es/ZynoBot - DontPing Addon/index.md
@@ -154,6 +156,7 @@ plugins:
                 - Instalacja: pl/NovaBot/addons/addons.md
                 - Wykaz: pl/NovaBot/addons/list.md
                 - Tworzenie: pl/NovaBot/addons/addonCreation.md
+              - FAQ: pl/NovaBot/faq.md
               - Oś czasu: pl/timeline.md
             - ZynoBot DontPing Dodatek:
               - Wprowadzenie: pl/ZynoBot - DontPing Addon/index.md
@@ -181,6 +184,7 @@ plugins:
                 - Instalace: cs/NovaBot/addons/addons.md
                 - Seznam: cs/NovaBot/addons/list.md
                 - Tvorba: cs/NovaBot/addons/addonCreation.md
+              - FAQ: cs/NovaBot/faq.md
               - Časová osa: cs/timeline.md
             - ZynoBot DontPing Doplnok:
               - Úvod: cs/ZynoBot - DontPing Addon/index.md
