@@ -1,6 +1,7 @@
 site_name: PSYCHEER's Documentations
 site_url: https://psycheer.github.io/
 site_author: PSYCHEER
+repo_url: https://github.com/PSYCHEER/psycheer.github.io
 theme:
   name: material
   locale: en
