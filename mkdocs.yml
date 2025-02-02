@@ -1,10 +1,8 @@
 site_name: PSYCHEER's Documentations
-site_url: https://psycheer.github.io
+site_url: https://psycheer.github.io/
 theme:
   name: material
-  custom_dir: overrides
-  copyright: ''
-  show_footer: false
+  locale: en
   logo: assets/logo.png
   favicon: assets/favicon.ico
   features:
@@ -14,9 +12,10 @@ theme:
     - search.share
     - navigation.tracking
     - navigation.footer
+    - navigation.top
+    - navigation.path
     - navigation.expand
-    - navigation.instant
-    - navigation.instant.prefetch
+    - navigation.sections
   palette:
     # Palette toggle for dark mode
     - scheme: slate
@@ -34,7 +33,10 @@ theme:
       primary: deep purple
       accent: purple
 
+extra_css:
+  - css/all.css
 markdown_extensions:
+  - neoteroi.timeline
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -54,29 +56,101 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
+nav:
+  - Home: en/index.md
+  - NovaBot:
+    - Why to choose NovaBot: en/NovaBot/novaIndex.md
+    - Setting up the bot: en/NovaBot/setup.md
+    - Addons:
+      - Installation: en/NovaBot/addons/addons.md
+      - List: en/NovaBot/addons/list.md
+      - Creation: en/NovaBot/addons/addonCreation.md
+
 plugins:
   - section-index
-  - literate-nav:
-      nav_file: NAV.md
-  - search
-  - toggle-sidebar:
-      async: True
-      javascript: ./toggle-sidebar.js
-      show_navigation_by_default: True
-      show_toc_by_default: True
-      toggle_button: navigation
+  - search:
+      lang:
+        - en
+        - cs
+        - es
+        - pl
   - social
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: True
+          name: English
+          nav:
+            - Home: en/index.md
+            - NovaBot:
+              - Why to choose NovaBot: en/NovaBot/novaIndex.md
+              - Setting up the bot: en/NovaBot/setup.md
+              - Configuration: en/NovaBot/config.md
+              - Addons:
+                - Installation: en/NovaBot/addons/addons.md
+                - List: en/NovaBot/addons/list.md
+                - Creation: en/NovaBot/addons/addonCreation.md
+            - Timeline: en/timeline.md
+        - locale: es
+          name: Español
+          admonition_translations:
+            success: Éxito
+            tip: Consejo
+            warning: Advertencia
+            danger: Peligro
+          nav:
+            - Inicio: es/index.md
+            - NovaBot:
+              - Por qué elegir NovaBot: es/NovaBot/novaIndex.md
+              - Configuración del bot: es/NovaBot/setup.md
+              - Configuración: es/NovaBot/config.md
+              - Complementos:
+                - Instalación: es/NovaBot/addons/addons.md
+                - Listado: es/NovaBot/addons/list.md
+                - Creación: es/NovaBot/addons/addonCreation.md
+        - locale: pl
+          name: Polski
+          admonition_translations:
+            success: Sukces
+            tip: Wskazówki
+            warning: Ostrzeżenie
+            danger: Zagrożenie
+          nav:
+            - Dom: pl/index.md
+            - NovaBot:
+              - Dlaczego wybrać NovaBot: pl/NovaBot/novaIndex.md
+              - Konfiguracja bota: pl/NovaBot/setup.md
+              - Konfiguracja: pl/NovaBot/config.md
+              - Dodatki:
+                - Instalacja: pl/NovaBot/addons/addons.md
+                - Wykaz: pl/NovaBot/addons/list.md
+                - Tworzenie: pl/NovaBot/addons/addonCreation.md
+        - locale: cs
+          name: Česky
+          admonition_translations:
+            success: Éxito
+            tip: Consejo
+            warning: Advertencia
+            danger: Peligro
+          nav:
+            - Domů: cs/index.md
+            - NovaBot:
+              - Proč si zvolit NovaBot: cs/NovaBot/novaIndex.md
+              - Nastavení bota: cs/NovaBot/setup.md
+              - Konfigurace: cs/NovaBot/config.md
+              - Přídavky:
+                - Instalace: cs/NovaBot/addons/addons.md
+                - Seznam: cs/NovaBot/addons/list.md
+                - Tvorba: cs/NovaBot/addons/addonCreation.md
+  - git-revision-date-localized
 
 extra:
+  generator: true
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/PSYCHEER
     - icon: fontawesome/brands/discord
       link: https://bbb.crafttale.eu
-  alternate:
-    - name: English
-      link: /en/ 
-      lang: en
-    - name: Spanish
-      link: /sp/
-      lang: fr
+
+copyright: Made with ❤️ by <a href="https://github.com/PSYCHEER">PSYCHEER</a>

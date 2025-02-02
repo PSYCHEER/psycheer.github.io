@@ -26,9 +26,6 @@ bot:
   status: "idle"
   showStatistics: true
   reloadCommandRoles: [""]
-
-  reloadSettings:
-    ...
 ```
 
 !!! warning "Do not change version"
@@ -80,6 +77,3 @@ Toggle true|false to (not) show statisctics in console of the bot (Starts and me
 
 ### reloadCommandRoles
 Array of roles, which may use /reload command to reload addon's configuration.
-
-### reloadSettings
-Various settings for embeddings, no permission message, no addons message or placeholder in selection menu.

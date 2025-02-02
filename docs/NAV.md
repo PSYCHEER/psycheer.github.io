@@ -1,8 +1,0 @@
-- [Home](en/index.md)
-- [NovaBot](en/NovaBot/novaIndex.md)
-    - [Setting up NovaBot](en/NovaBot/setup.md)
-    - [Configuration](en/NovaBot/config.md)
-    - [Add-ons](en/NovaBot/addons/addonsIndex.md)
-        - [List](en/NovaBot/addons/list.md)
-        - [Installation](en/NovaBot/addons/addons.md)
-        - [Creation](en/NovaBot/addons/addonCreation.md)
