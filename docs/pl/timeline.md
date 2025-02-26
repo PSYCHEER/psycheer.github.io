@@ -8,6 +8,11 @@ hide:
 
 ::timeline::
 
+- content: GitHub issue templates and roadmap project to check progress of Nova a bit better!
+  icon: ':material-update:'
+  sub_title: 26.02.2025
+  title: GitHub upgrade!
+  
 - content: Added as draft on BuiltByBit.
   icon: ':simple-builtbybit:'
   sub_title: 02.02.2025

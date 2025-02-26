@@ -8,6 +8,11 @@ hide:
 
 ::timeline::
 
+- content: GitHub šablony chyb a roadmap projekt pro lepší kontrolu postupu projektu Nova!
+  icon: ':material-update:'
+  sub_title: 26.02.2025
+  title: GitHub vylepšení!
+
 - content: Přidáno jako koncept na BuiltByBit.
   icon: ':simple-builtbybit:'
   sub_title: 02.02.2025
