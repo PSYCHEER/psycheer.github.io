@@ -1,18 +1,17 @@
 ---
 title: 'FAQ'
-description: 'Frequently Asked Questions'
+description: 'Často kladené otázky'
 hide:
     - footer
 icon: material/frequently-asked-questions
 ---
-# :material-frequently-asked-questions: Frequently Asked Questions
 
-## Q: Why MongoDB?
+# :material-frequently-asked-questions: Často kladené otázky
 
-### A:
+## Proč MongoDB?
 
-MongoDB is a NoSQL database that is designed for storing and retrieving large volumes of unstructured data. It uses a document-oriented data model, which means data is stored in flexible, JSON-like documents. This flexibility allows MongoDB to handle large volumes of unstructured data efficiently.
+MongoDB je NoSQL databáze navržená pro ukládání a získávání velkých objemů nestrukturovaných dat. Používá dokumentově orientovaný datový model, což znamená, že data jsou uložena ve flexibilních, JSON-like dokumentech. Tato flexibilita umožňuje MongoDB efektivně zpracovávat velké objemy nestrukturovaných dat.
 
-One of the key advantages of MongoDB is its dynamic schema capability. This means that the structure of the data can change over time without requiring a complex migration process. This is particularly useful for applications that need to evolve quickly or handle diverse data types.
+Jednou z klíčových výhod MongoDB je její schopnost dynamického schématu. To znamená, že struktura dat se může v průběhu času měnit, aniž by bylo nutné provádět složitý migrační proces. To je obzvláště užitečné pro aplikace, které se potřebují rychle vyvíjet nebo zpracovávat různé typy dat.
 
-Additionally, MongoDB is designed for scalability and high performance. It can easily scale out by distributing data across multiple servers, which helps in managing large datasets and high traffic loads. This makes MongoDB a suitable choice for a variety of applications, especially those that require handling large amounts of data with varying structures.
+Navíc je MongoDB navržena pro škálovatelnost a vysoký výkon. Může snadno škálovat rozdělením dat mezi více serverů, což pomáhá při správě velkých datových sad a vysokých zátěží. Díky tomu je MongoDB vhodnou volbou pro různé aplikace, zejména ty, které vyžadují zpracování velkých objemů dat s různými strukturami.

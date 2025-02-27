@@ -7,9 +7,7 @@ icon: material/frequently-asked-questions
 ---
 # :material-frequently-asked-questions: Frequently Asked Questions
 
-## Q: Why MongoDB?
-
-### A:
+## Why MongoDB?
 
 MongoDB is a NoSQL database that is designed for storing and retrieving large volumes of unstructured data. It uses a document-oriented data model, which means data is stored in flexible, JSON-like documents. This flexibility allows MongoDB to handle large volumes of unstructured data efficiently.
 
