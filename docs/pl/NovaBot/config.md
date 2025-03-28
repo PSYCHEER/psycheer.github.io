@@ -9,26 +9,26 @@ icon: material/file-document
 ## Podstawowa konfiguracja
 ```yaml title="config.yml" hl_lines="2"
 bot:
-  version: "1.0.0"
-  licensekey: ""
-  mongoURI: ""
-  name: "NovaBot👑"
-  token: ""
-  app_id: ""
-  guild: ""
-  activity: "Waiting for orders"
-  activity_type: "Cyclical"
+  version: "1.0.0" # Wersja bota
+  licensekey: "" # Klucz licencyjny
+  mongoURI: "" # URI połączenia z MongoDB
+  name: "NovaBot👑" # Nazwa bota
+  token: "" # Token bota
+  app_id: "" # ID aplikacji
+  guild: "" # ID serwera (gildii)
+  activity: "Waiting for orders" # Status aktywności bota
+  activity_type: "Cyclical" # Typ aktywności (cykliczny)
   cycle:
-  - text: "{botName}"
-    duration: 5 # In seconds
-  - text: "Looking for tickets {ticketCount}"
+  - text: "{botName}" # Wiadomość cykliczna
+    duration: 5 # Czas trwania w sekundach
+  - text: "Looking for tickets {ticketCount}" # Kolejna wiadomość cykliczna
     duration: 10
-  status: "idle"
-  showStatistics: true
-  reloadCommandRoles: [""]
+  status: "idle" # Status bota (online, idle, dnd)
+  showStatistics: true # Pokazywanie statystyk w konsoli bota
+  reloadCommandRoles: [""] # Role z dostępem do komendy /reload
 
   reloadSettings:
-    ...
+    ... # Dodatkowe ustawienia
 ```
 
 !!! warning "Nie zmieniaj wersji"
