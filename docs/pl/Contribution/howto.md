@@ -1,72 +1,72 @@
 ---
-title: 'How to contribute'
-description: 'Guide on how to contribute into wiki'
+title: 'Jak współtworzyć'
+description: 'Przewodnik, jak współtworzyć wiki'
 hide:
     - footer
 icon: material/github
 ---
 
-# How to contribute into GitHub
+# Jak współtworzyć na GitHub
 
-Contributing to our GitHub repository is a great way to help improve the project. Follow these steps to contribute:
+Współtworzenie naszego repozytorium GitHub to świetny sposób na ulepszenie projektu. Postępuj zgodnie z tymi krokami, aby współtworzyć:
 
-## 1. Fork the Repository
+## 1. Sforkuj repozytorium
 
-First, you need to fork the repository. This creates a copy of the repository under your own GitHub account.
+Najpierw musisz sforkować repozytorium. Tworzy to kopię repozytorium na Twoim koncie GitHub.
 
-1. Go to the repository: [PSYCHEER/psycheer.github.io](https://github.com/PSYCHEER/psycheer.github.io)
-2. Click on the "Fork" button in the top-right corner of the page.
+1. Przejdź do repozytorium: [PSYCHEER/psycheer.github.io](https://github.com/PSYCHEER/psycheer.github.io)
+2. Kliknij przycisk "Fork" w prawym górnym rogu strony.
 
-## 2. Clone the Forked Repository
+## 2. Sklonuj sforkowane repozytorium
 
-Next, clone the forked repository to your local machine.
+Następnie sklonuj sforkowane repozytorium na swój lokalny komputer.
 
 ```sh
 git clone https://github.com/PSYCHEER/psycheer.github.io.git
 cd psycheer.github.io
 ```
 
-## 3. Create a New Branch
+## 3. Utwórz nową gałąź
 
-Create a new branch to work on your changes.
+Utwórz nową gałąź (branch), aby pracować nad swoimi zmianami.
 ```sh
 git checkout -b my-new-branch
 ```
 
-Replace my-new-branch with a descriptive name for your branch.
+Zastąp my-new-branch opisową nazwą dla swojej gałęzi.
 
-## 4. Edit Files
+## 4. Edytuj pliki
 
-Make the necessary changes to the files. You can use any text editor or IDE to edit the files.
+Wprowadź niezbędne zmiany w plikach. Możesz użyć dowolnego edytora tekstu lub IDE.
 ??? tip
-    Our recommendation is [VS-Code](https://code.visualstudio.com)
+    Nasza rekomendacja to [VS-Code](https://code.visualstudio.com)
 
-## 5. Commit Your Changes
+## 5. Zatwierdź swoje zmiany
 
-After making your changes, commit them to your branch.
+Po wprowadzeniu zmian zatwierdź je w swojej gałęzi.
 
 ```sh
 git add .
-git commit -m "Description of the changes"
+git commit -m "Opis wprowadzonych zmian"
 ```
 
-## 6. Push Your Changes
+## 6. Wypchnij swoje zmiany
 
-Push your changes to your forked repository on GitHub.
+Wypchnij swoje zmiany do sforkowanego repozytorium na GitHub.
 
 ```sh
 git push origin my-new-branch
 ```
 
-## 7. Create a Pull Request
+## 7. Utwórz Pull Request
 
-Finally, create a pull request to merge your changes into the original repository.
+Na koniec utwórz pull request, aby wprowadzić swoje zmiany do oryginalnego repozytorium.
 
-1. Go to your forked repository on GitHub.
-2. Click on the "Compare & pull request" button.
-3. Provide a title and description for your pull request.
-4. Click on the "Create pull request" button.
+1. Przejdź do swojego sforkowanego repozytorium na GitHub.
+2. Kliknij przycisk "Compare & pull request".
+3. Podaj tytuł i opis swojego pull requesta.
+4. Kliknij przycisk "Create pull request".
 
-Your pull request will be reviewed, and if everything is in order, it will be merged into the main repository.
+Twój pull request zostanie przejrzany, a jeśli wszystko będzie w porządku, zostanie scalony z głównym repozytorium.
 
-Thank you for contributing! 💖👑
+Dziękujemy za współtworzenie! 💖👑

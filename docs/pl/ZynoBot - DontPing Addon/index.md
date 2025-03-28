@@ -8,15 +8,15 @@ icon: material/message-reply-text
 
 # :material-message-reply-text: ZynoBot DontPing Addon
 
-Tired of all the pings from your community?
-Feel free to download the DontPing addon for ZynoBot!
-Disable pinging in any channel for anyone who doesn't have a moderation role!
-Choose whether to delete the ping message or keep it!
-Set your own message to force the community not to ping!
+Zmęczony wszystkimi pingami od swojej społeczności?  
+Pobierz dodatek DontPing dla ZynoBot!  
+Wyłącz pingowanie w dowolnym kanale dla każdego, kto nie ma roli moderacyjnej!  
+Wybierz, czy usunąć wiadomość z pingiem, czy ją zachować!  
+Ustaw własną wiadomość, aby wymusić na społeczności niepingowanie!  
 
-Automatically in all tickets and you can configure in which channels it should be restricted!
+Automatycznie we wszystkich zgłoszeniach, a także możesz skonfigurować, na których kanałach powinno to być ograniczone!
 
-## Configuration
+## Konfiguracja
 
 ```json
 {
@@ -28,7 +28,3 @@ Automatically in all tickets and you can configure in which channels it should b
     "deleteping": "true",
     "warnmessage": "{MENTION} do not ping the staff!"
 }
-```
-
-## Where to get
-This addon for ZynoBot can be downloaded [here](https://builtbybit.com/resources/dontping-zynobot-addon.49086/)

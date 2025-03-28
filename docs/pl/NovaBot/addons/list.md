@@ -1,11 +1,11 @@
 ---
-title: List of Add-ons
-description: Full list of addons for NovaBot
+title: Lista dodatków
+description: Pełna lista dodatków dla NovaBot
 icon: material/view-list
 ---
 
-# :material-view-list: **List of Add-ons**
+# :material-view-list: **Lista dodatków**
 * ThreadTickets
 * Captcha
 * AntiSpam
-* BadWordsFilter (includes regex filter too)
+* BadWordsFilter (zawiera również filtr regex)

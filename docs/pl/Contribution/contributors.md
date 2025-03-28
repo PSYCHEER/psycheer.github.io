@@ -1,15 +1,15 @@
 ---
-title: 'Contributors'
-description: 'List of contributors'
+title: 'Współtwórcy'
+description: 'Lista współtwórców'
 hide:
     - footer
 icon: material/translate
 ---
 
-# Contributors
+# Współtwórcy
 
-[ReimaginedPixel](https://github.com/ReimaginedPixel) - Thank you for Polish translation.
+[ReimaginedPixel](https://github.com/ReimaginedPixel) - Dziękujemy za tłumaczenie na język polski.
 
-Sistemas - Thank you for Spanish translation.
+Sistemas - Dziękujemy za tłumaczenie na język hiszpański.
 
-Astaspasta - Thank you for testings.
+Astaspasta - Dziękujemy za testy.

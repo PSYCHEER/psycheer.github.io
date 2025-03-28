@@ -1,38 +1,38 @@
 ---
 title: 'PsyMessagement'
-description: 'Introduction to PsyMessagement'
+description: 'Wprowadzenie do PsyMessagement'
 hide:
     - footer
 icon: material/package
 ---
 
 # :material-package: PsyMessagement
-## About plugin
-Currently is plugin built against 1.20 Paper API, possibility of working for lower versions, not tested, not primary.
+## O pluginie
+Obecnie plugin jest zbudowany w oparciu o API Paper 1.20, możliwość działania na niższych wersjach nie została przetestowana i nie jest priorytetem.
 
-Plugin for custom Chat and Join/Leave messages.
-Best choice for Almost-Vanilla servers.
+Plugin do niestandardowych wiadomości na czacie oraz wiadomości dołączania/opuszczania serwera.
+Najlepszy wybór dla serwerów typu Almost-Vanilla.
 
-✅ItemsAdder :image: in messages supported.
-✅Vault dependency and some Chat+Permissions plugin (LuckPerms)
+✅Obsługa ItemsAdder :image: w wiadomościach.  
+✅Zależność Vault oraz jakiś plugin do czatu i uprawnień (LuckPerms).
 
-Commands:
+Komendy:
 
-* /psy - Show information about plugin
-* /psy reload - Reloads plugin configuration (except permissions)
+* /psy - Wyświetla informacje o pluginie
+* /psy reload - Przeładowuje konfigurację pluginu (z wyjątkiem uprawnień)
 
-Permissions:
-Permission prefix `psymessagement` + permission suffix
+Uprawnienia:  
+Prefiks uprawnień `psymessagement` + sufiks uprawnień
 
-* psymessagement.admin - reload command
-* psymessagement.colors - permission for MiniMessage parsing, can be changed in configuration
+* psymessagement.admin - komenda reload
+* psymessagement.colors - uprawnienie do parsowania MiniMessage, można zmienić w konfiguracji
 
-## Configuration
+## Konfiguracja
 
 ```yml
 Messages:
-  join-message: '%PREFIX%%PLAYER% <gold>joined the <bold>server</bold>!</gold>'
-  leave-message: '%PREFIX%%PLAYER% <red>left the <bold>server</bold>!</red>'
+  join-message: '%PREFIX%%PLAYER% <gold>dołączył do <bold>serwera</bold>!</gold>'
+  leave-message: '%PREFIX%%PLAYER% <red>opuścił <bold>serwer</bold>!</red>'
   format: '%PREFIX%%PLAYER%%SUFFIX% %CUSTOM% %MESSAGE%'
   custom: '>>'
 
@@ -44,20 +44,20 @@ debug: false
 Version: 1.0.8
 ```
 
-Currently supported placeholders are:
+Obecnie obsługiwane zastępniki to:
 
-* %PREFIX% - Prefix of Player accessed via Vault
-* %PLAYER% - Name of the player - unchanged
-* %DISPLAY_NAME% - Display name of the player (with prefix and suffix if stated)
-* %SUFFIX% - Suffix of player accessed via Vault
+* **%PREFIX%** - Prefiks gracza uzyskany przez Vault  
+* **%PLAYER%** - Nazwa gracza - niezmieniona  
+* **%DISPLAY_NAME%** - Wyświetlana nazwa gracza (z prefiksem i sufiksem, jeśli ustawione)  
+* **%SUFFIX%** - Sufiks gracza uzyskany przez Vault  
 
-Only for `format`:
+Tylko dla `format`:
 
-* %CUSTOM% - Custom player and message divider provided via `custom` field
-* %MESSAGE% - Message placeholder - have to be always present!
+* **%CUSTOM%** - Niestandardowy separator gracza i wiadomości określony w polu `custom`  
+* **%MESSAGE%** - Zastępnik wiadomości - musi być zawsze obecny!  
 
 !!! warning
-    Only MiniMessage is supported ex. <gold><bold>TEXT</gold></bold> <#FFAA00>SAMPLE</#FFAA00>. After permission change is needed to restart the server.
+    Obsługiwany jest tylko MiniMessage, np. `<gold><bold>TEKST</gold></bold>` `<#FFAA00>PRZYKŁAD</#FFAA00>`. Po zmianie uprawnień wymagane jest ponowne uruchomienie serwera.
 
-## Where to get PsyMessagement
-PsyMessagement can be found for download [here](https://modrinth.com/plugin/psymessagement)
+## Skąd pobrać PsyMessagement
+PsyMessagement można pobrać [tutaj](https://modrinth.com/plugin/psymessagement)

@@ -2,46 +2,46 @@
 icon: material/robot
 ---
 
-# Why to choose NovaBot? 🤖
+# Dlaczego warto wybrać NovaBot? 🤖
 
-NovaBot is a feature-packed, highly customizable Discord bot designed to meet the needs of any server—whether you’re running a gaming guild, a streaming community, or a professional workspace. Built with versatility and user experience in mind, NovaBot empowers server owners and members alike with intuitive tools, seamless integrations, and a modular structure to create the perfect Discord experience.
+NovaBot to bogaty w funkcje, wysoce konfigurowalny bot Discord zaprojektowany, aby sprostać potrzebom każdego serwera — niezależnie od tego, czy prowadzisz gildię gamingową, społeczność streamerów, czy profesjonalne środowisko pracy. Stworzony z myślą o wszechstronności i doświadczeniu użytkownika, NovaBot umożliwia właścicielom serwerów i członkom korzystanie z intuicyjnych narzędzi, płynnych integracji i modułowej struktury, aby stworzyć idealne środowisko Discord.
 
-## Features ✨
+## Funkcje ✨
 
-### Modular Design 🧩
+### Modułowy design 🧩
 
-Activate only the features you need. NovaBot’s modular system allows you to enable or disable specific modules, keeping your server clutter-free and efficient.
+Aktywuj tylko te funkcje, których potrzebujesz. Modułowy system NovaBot pozwala włączać lub wyłączać określone moduły, utrzymując Twój serwer przejrzysty i wydajny.
 
-From advanced moderation to community-building tools, NovaBot adapts to your server’s unique requirements.
+Od zaawansowanej moderacji po narzędzia budujące społeczność, NovaBot dostosowuje się do unikalnych wymagań Twojego serwera.
 
-### Versatile Functionality 🔄
+### Wszechstronna funkcjonalność 🔄
 
-Automated moderation tools to keep your server safe and organized, including spam detection and customizable filters.
+Zautomatyzowane narzędzia moderacji, które utrzymują Twój serwer bezpieczny i zorganizowany, w tym wykrywanie spamu i konfigurowalne filtry.
 
-### User-Centric Features 👤
+### Funkcje skoncentrowane na użytkowniku 👤
 
-Custom Commands: Easily create commands tailored to your server’s needs.
+Własne komendy: Łatwo twórz komendy dostosowane do potrzeb Twojego serwera.
 
-Interactive Support: NovaBot is simple to set up and backed by comprehensive documentation and responsive support.
+Interaktywne wsparcie: NovaBot jest prosty w konfiguracji i wspierany przez kompleksową dokumentację oraz responsywną pomoc techniczną.
 
-### For Everyone 🌟
+### Dla każdego 🌟
 
-Server Owners: Automate tedious tasks, simplify management, and foster a vibrant community.
+Właściciele serwerów: Automatyzuj żmudne zadania, upraszczaj zarządzanie i buduj tętniącą życiem społeczność.
 
-Server Members: Enjoy engaging features, interactive commands, and a smooth user experience.
+Członkowie serwera: Korzystaj z angażujących funkcji, interaktywnych komend i płynnego doświadczenia użytkownika.
 
 ## NovaBot 🤖
 
-N.O.V.A Next-gen Online Versatile Assistant is not only a name, it's a lifestyle.
+N.O.V.A Next-gen Online Versatile Assistant to nie tylko nazwa, to styl życia.
 
-Adaptable: Whether you’re managing a small group or a large-scale community, NovaBot scales to your needs.
+Adaptowalny: Niezależnie od tego, czy zarządzasz małą grupą, czy dużą społecznością, NovaBot dostosowuje się do Twoich potrzeb.
 
-Innovative: Regular updates keep NovaBot fresh with the latest tools and features.
+Innowacyjny: Regularne aktualizacje utrzymują NovaBot na bieżąco z najnowszymi narzędziami i funkcjami.
 
-Accessible: Designed with both beginners and experts in mind, NovaBot makes it easy for anyone to create a dynamic server environment.
+Dostępny: Zaprojektowany zarówno dla początkujących, jak i ekspertów, NovaBot ułatwia każdemu tworzenie dynamicznego środowiska serwera.
 
-### Built for Growth 🚀
-Whether you’re managing a cozy group of friends or a massive community, NovaBot scales with you. Regular updates keep it fresh, and a dedicated support team ensures you’re never left in the dark.
+### Stworzony do rozwoju 🚀
+Niezależnie od tego, czy zarządzasz kameralną grupą znajomych, czy ogromną społecznością, NovaBot rozwija się razem z Tobą. Regularne aktualizacje utrzymują go świeżym, a dedykowany zespół wsparcia zapewnia, że nigdy nie zostaniesz pozostawiony bez pomocy.
 
-## Where to buy?
-[Here you can buy NovaBot](https://builtbybit.com/resources/novabot.58355)
+## Gdzie kupić?
+[Tutaj możesz kupić NovaBot](https://builtbybit.com/resources/novabot.58355)

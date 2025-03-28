@@ -1,16 +1,16 @@
 ---
 title: 'FAQ'
-description: 'Frequently Asked Questions'
+description: 'Najczęściej zadawane pytania'
 hide:
     - footer
 icon: material/frequently-asked-questions
 ---
-# :material-frequently-asked-questions: Frequently Asked Questions
+# :material-frequently-asked-questions: Najczęściej zadawane pytania
 
-## Why MongoDB?
+## Dlaczego MongoDB?
 
-MongoDB is a NoSQL database that is designed for storing and retrieving large volumes of unstructured data. It uses a document-oriented data model, which means data is stored in flexible, JSON-like documents. This flexibility allows MongoDB to handle large volumes of unstructured data efficiently.
+MongoDB to baza danych NoSQL zaprojektowana do przechowywania i pobierania dużych ilości niestrukturalnych danych. Wykorzystuje model danych oparty na dokumentach, co oznacza, że dane są przechowywane w elastycznych dokumentach podobnych do JSON. Ta elastyczność pozwala MongoDB efektywnie obsługiwać duże ilości niestrukturalnych danych.
 
-One of the key advantages of MongoDB is its dynamic schema capability. This means that the structure of the data can change over time without requiring a complex migration process. This is particularly useful for applications that need to evolve quickly or handle diverse data types.
+Jedną z kluczowych zalet MongoDB jest jego dynamiczna struktura schematu. Oznacza to, że struktura danych może zmieniać się w czasie bez konieczności przeprowadzania skomplikowanego procesu migracji. Jest to szczególnie przydatne w aplikacjach, które muszą szybko ewoluować lub obsługiwać różnorodne typy danych.
 
-Additionally, MongoDB is designed for scalability and high performance. It can easily scale out by distributing data across multiple servers, which helps in managing large datasets and high traffic loads. This makes MongoDB a suitable choice for a variety of applications, especially those that require handling large amounts of data with varying structures.
+Dodatkowo, MongoDB jest zaprojektowany z myślą o skalowalności i wysokiej wydajności. Może łatwo skalować się poziomo, rozdzielając dane na wiele serwerów, co pomaga w zarządzaniu dużymi zbiorami danych i dużym ruchem. Dzięki temu MongoDB jest odpowiednim wyborem dla różnych aplikacji, zwłaszcza tych, które wymagają obsługi dużych ilości danych o zróżnicowanych strukturach.

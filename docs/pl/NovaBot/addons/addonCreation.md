@@ -1,12 +1,12 @@
 ---
-title: Creation of Add-on
-description: Guide to Add-on system of NovaBot
+title: Tworzenie dodatku
+description: Przewodnik po systemie dodatków NovaBot
 icon: material/format-paint
 ---
 
-# :material-format-paint: **Add-on Creation**
+# :material-format-paint: **Tworzenie dodatku**
 
-Doing addon for NovaBot is simple
+Tworzenie dodatku dla NovaBot jest proste
 
 ## Folder Structure
 
@@ -22,8 +22,7 @@ novabot:
         - command.js
 ```
 
-To ensure NovaBot will read all files in order, we have to strictly follow folder structure.
-NovaBot automatically register all commands inside of `commadns` folder and register all events in `events` folder.
+Aby NovaBot poprawnie odczytał wszystkie pliki, musimy ściśle przestrzegać struktury folderów. NovaBot automatycznie rejestruje wszystkie komendy w folderze `commands` oraz wszystkie zdarzenia w folderze `events`.
 
 ## index.js
 
@@ -40,9 +39,7 @@ module.exports = {
   myFunction
 ```
 
-This is simple `index.js`.
-As you can see, `module.exports` exports `name`, `version`, `author` and `description`.
-These variables are important for NovaBot to have, so it can show in /reload and in console upon start.
+To jest prosty `index.js`. Jak widać, `module.exports` eksportuje `name`, `version`, `author` i `description`. Te zmienne są ważne dla NovaBot, aby mogły być wyświetlane w /reload oraz w konsoli podczas uruchamiania.
 
 ## command.js
 
@@ -66,7 +63,7 @@ module.exports = {
     }
 }
 ```
-This will create a simple slash (/) command for our bot which calls `myFunction` function which will say "Hello World!" into console.
+To stworzy prostą komendę slash (/) dla naszego bota, która wywołuje funkcję `myFunction`, wypisującą "Hello World!" w konsoli.
 
 ## event.js
 ```js title="Simple event" linenums="1"
@@ -79,7 +76,7 @@ module.exports = {
 }
 
 ```
-This will send "000000000000000000 wrote MyMessageContent" into console every time a user send a message.
+To wyśle do konsoli komunikat w formacie "000000000000000000 napisał MojaTreśćWiadomości" za każdym razem, gdy użytkownik wyśle wiadomość.
 
 !!! success
-    We are done! Hope you will unleash your creativity!
+    Gotowe! Mamy nadzieję, że uwolnisz swoją kreatywność!
