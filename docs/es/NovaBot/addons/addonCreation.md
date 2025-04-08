@@ -69,7 +69,7 @@ module.exports = {
     }
 }
 ```
-Esto creará un simple comando (/command) para nuestro bot que llamarà a la función `myFunction` la cuál dirá "Hello world!" en la consola.
+Esto creará un simple comando (/command) para nuestro bot que llamará a la función `myFunction` la cuál dirá "Hello world!" en la consola.
 
 ## event.js
 ```js title="Evento simple" linenums="1"
