@@ -1,69 +1,69 @@
 ---
-title: Setting up the bot
-description: Guide for NovaBot set up
+title: Configurando el bot
+description: Guía para la configuración de NovaBot
 icon: fontawesome/solid/gear
 ---
 
-# :fontawesome-solid-gear: Setting Up a Discord Bot
+# :fontawesome-solid-gear: Configurar el bot de Discord
 
-## **Prerequisites**
-* Discord Bot Server
-* [NodeJS v22 is LTS](https://nodejs.org/en "Long Term Support") or newer
-* License [can be obtained on our Discord after purchase](https://bbb.crafttale.eu)
+## **Prerequisitos**
+* Servidor para el bot de Discord
+* [NodeJS v22 is LTS](https://nodejs.org/en "Long Term Support") o más reciente
+* Licencia [que puede ser obtenida después de comprarse el bot](https://bbb.crafttale.eu)
 
-## **Steps to set up NovaBot**
+## **Pasos para instalar el bot**
 
-### Step 1: Create a Discord Application
-1. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
-2. Click on the "New Application" button.
-3. Give your application a name and click "Create".
+### Paso 1: Crea la aplicación en Discord
+1. Ve al [Portal de Desarrollador de Discord](https://discord.com/developers/applications).
+2. Haz clic en el botón de "Nueva aplicación".
+3. Dale un nombre a tu aplicación y haz click en "Crear".
 
-### Step 2: Create a Bot User
-1. In your new application, navigate to the "Bot" tab on the left.
-2. You can customize your bot's profile by setting an avatar and name.
-3. Turn "Public Bot" setting off.
+### Paso 2: Crea un usuario (bot)
+1. En tu nueva aplicación, navega hasta la pestaña "Bot" en la parte izquierda.
+2. Puedes customizar el perfil de tu bot estableciendo un avatar y un nombre.
+3. Mantén la opción "Bot público" apagada.
 
 !!! tip 
-    In "General Information" you can set up display name for your bot and description (bio).
+    En la sección de "Información general" puedes establecer un nombre y descripción para tu bot (su biografía).
 
-### Step 3: Get Your Bot’s credentials (Token/Application ID)
-1. In the "Bot" tab, under the "TOKEN" section, click "Copy" to get your bot's token. **Keep this token secret**.
-2. ApplicationID can be found in "General Information".
-3. Place both of these values into bot configuration file in root folder of the bot.
-4. Turn on all intents "Presence Intent", "Server Members Intent" and "Message Content Intent" to ensure bot's full functionality.
+### Paso 3: Obtén las credenciales de tu bot (Token/Application ID)
+1. En la sección "Bot", bajo la sección "TOKEN" dale click a "copiar" para obtener tu Token. **Mantén esto completamente oculto de otros**.
+2. El ApplicationID se puede obtener en la sección "Información general".
+3. Coloca ambos valores en el archivo de configuración de tu bot en la carpeta raíz (o root) de tu bot.
+4. Enciende todas las intenciones, esto incluye "Intención de presencia", "Intención de miembros del servidor" e "Intención de contenido del mensaje" para asegurarte de que todas las funcionalidades del bot no serán limitadas por los permisos de la aplicación.
 
-### Step 4: Invite Your Bot to a Server
-1. Go to the "Installation" tab on the left.
-2. Under "Installation Contexts", select the "Guild Install".
-3. Under "Install Link", select the "Discord Provided Link".
-4. Under "Default Install Settings" choose "application.commands" and "bot".
-5. Save changes and copy the generated URL from **step 3** and open it in your browser.
-6. Select the server you want to invite your bot to and click "Authorize".
+### Paso 4: Invita al bot a tu servidor de discord
+1. Ve a la sección "Instalación" en tu panel lateral izquierdo.
+2. En "Contextos de instalación", selecciona "Instalación de hermandad" (o "Instalación de servidor").
+3. En "Link de instalación", selecciona el "Enlace proveido por discord".
+4. En "Instalaciones por defecto" elige "application.commands" y "bot".
+5. Guarda los cambios y copia la URL generada en el **paso 3** y ábrelo en tu navegador.
+6. Selecciona el servidor donde quieras invitarle y presiona "Autorizar".
 
-## **Steps to set up MongoDB Cluster**
+## **Pasos para instalar el MongoDB Cluster (base de datos)**
 
-### Step 1: Register for a MongoDB Atlas Account
-1. Visit the [MongoDB Atlas registration page](https://www.mongodb.com/cloud/atlas/register).
-2. Fill in the required information such as name, email, and password.
-3. Click the "Get started free" button.
-4. Verify your email address by clicking on the verification link sent to your email.
+### Paso 1: Regístrate para obtener cuenta de MongoDB Atlas
+1. Visita la [página de registro de MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register).
+2. Rellena la información requerida como el nombre, correo y contraseña.
+3. Haz click en el botón "Get started free" que será para crear una cuenta gratuita.
+4. Verifica tu correo haciendo click en el correo de verificación mandado.
 
-### Step 2: Log in and Create a Cluster
-1. Log in to your MongoDB Atlas account using your registered email and password.
-2. Once logged in, you will be directed to the Atlas dashboard. Click on "New Project" to create a new project.
-3. Enter a project name and click "Next".
-4. Click on "Build a Cluster" to create a new cluster.
-5. Choose your preferred cloud provider and region.
-6. Select the cluster tier (for the free tier, choose M0 Sandbox).
-7. Click "Create Cluster".
+### Paso 2: Identifícate y crea un Cluster
+1. Identifícate en la página de MongoDB Atlas usando tu correo y contraseña creados.
+2. Una vez identificado, serás redirigido al panel de Atlas. Haz cli en "New project" para crear un nuevo proyecto.
+3. Escribe un nombre para el proyecto y presiona "Next".
+4. Haz click en "Build a Cluster" para crear un nuevo Cluster.
+5. Elige tu proveedor de espacio en la nube y tu región.
+6. Selecciona el tier del Cluster (para el gratuito, elige M0 Sandbox)-
+7. Haz click en "Create cluster".
 
-### Follow-up Steps
-1. Set up IP Adress of your bot to secure connect into the MongoDB cluster to ensure proper access control and data security.
-2. Connection string can be get trough clicking in cluster on "Connect" button with **Mongoose** driver selected (latest version) and you'll get something like `mongodb+srv://<name>:<db_password>@novabotdatacluster.something.mongodb.net/?retryWrites=true&w=majority&appName=myAppName`
-3. Change `<name>` and `<db_password>` with your created credentials and copy the whole string into bot's configuration.
+### Siguientes pasos
+1. Establece la IP de tu bot para asegurarte de que conectará con el MongoDB Cluster y asegurar el correspondiente acceso de control y seguridad.
+2. La dirección de conexión (o connection string) puede ser obtenida haciendo click en el cluster en el botón de "Connect" cuando seleccionad el driver **Mongoose** (en su última versión) y obtendrás algo como `mongodb+srv://<name>:<db_password>@novabotdatacluster.something.mongodb.net/?retryWrites=true&w=majority&appName=myAppName`
+3. Cambia `<name>` y `<db_password>` con tus credenciales generadas y pega la dirección en la configuración de tu bot.
 
-### Final: Run Your Bot
-In your terminal, run `node index.js`.
+### Final: Inicia tu bot
+En tu terminal, ejecutan `node index.js`.
 
 !!! success
-    That's it! You have successfully set up your NovaBot.
+    ¡Ya está! ¡Has creado y ejecutado con éxito tu NovaBot!
