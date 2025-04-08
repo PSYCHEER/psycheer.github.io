@@ -1,12 +1,12 @@
 ---
-title: "NovaBot Configuration"
-description: "Setting up the NovaBot"
+title: "Configuración de tu NovaBot"
+description: "Configura tu NovaBot"
 icon: material/file-document
 ---
 
-# :material-file-document: Configuration
+# :material-file-document: Configuración
 
-## Default configuration
+## Configuración por defecto
 ```yaml title="config.yml" hl_lines="2"
 bot:
   version: "1.0.0"
@@ -28,52 +28,52 @@ bot:
   reloadCommandRoles: [""]
 ```
 
-!!! warning "Do not change version"
-    It's for bot to check which version is on and update config!
+!!! warning "No cambies la versión"
+    El valor de `version` es para que el bot revise en qué versión se encuentra y pueda actualizarse, ¡no lo toques!
 
 ### licensekey
-Your unique license key can be obtained on our [Discord for NovaBot](https://bbb.crafttale.eu/).
-Is needed for bot to start up.
+Tu licencia, puede obtenerse en nuestro [Discord de NovaBot](https://bbb.crafttale.eu/).
+Es necesario para que el bot empiece a funcionar.
 
 ### mongoURI
-MongoDB connection URI.
-If you have no MongoDB account, you can make one in [here](https://mongodb.com).
-If you'll need a help with setting up a Mongo Cluster for bot (database), feel free to open a ticket on our Discord server.
+URI de tu MongoDB.
+Si no tienes una cuenta de MongoDB, puedes crear una [aquí](https://mongodb.com).
+Si necesitas ayuda configurando un Mongo Cluster para el bot (una base de datos), siéntete libre de abrir un ticket en nuestro servidor de Discord.
 
 ### name
-Bot's name. Can be set on whatever, but it will change name setting in "General Informations" in Discord Developer Portal
+El nombre del bot. Puede eser cualquiera, pero hacerlo cambiará el nombre de la configuración (el valor "General Informations") en el [Portal de Desarrolladores de Discord](https://discord.com/developers/applications).
 
 ### token
-Token can be obtained in [here](./setup.md).
+El Token puede obtenerse [aquí](./setup.md).
 
 ### app_id
-ApplicationID can be obtained in [here](./setup.md).
+La ApplicationID puede obtenerse [aquí](./setup.md).
 
 ### guild
-GuildID can be obtained from Discord.
-Right click on your guild icon in Discord server list and choose "Copy Server ID".
-Need to have enabled "Developer Mode" in Discord Settings.
+La GuildID puede obtenerse en discord.
+Haz click derecho en el icono de tu Hermandad (o Guild) en la lista de servidores de discord y selecciona la opción "Copiar la ID del servidor".
+Necesitas tener el "Modo desarrollador" activado en tu configuración de Discord (en la sección de Avanzado).
 
 ### activity
-Custom text
+Texto custom que prefieras.
 
 ### activity_type
 `Playing|Streaming|Listening|Watching|Competing|Bubble|Cyclical`
 
-`Bubble` to show custom message as custom status message over bot's profile photo
+`Bubble` mostrará un texto custom (definido en Activity) en la foto de perfil de tu bot.
 
-`Cyclical` to show multiple messages in a cycle within **duration** time range in **cycle settings**.
+`Cyclical` mostrará múltiples mensajes en un ciclo con una duración definida en el valor **duration** establecido en **cycle settings**.
 !!! danger
-    Very low values of `duration` can lead into temp-ban of bot due to rate-limits of Discord!
+    ¡Un valor muy bajo del valor `duration` puede ocasionar que tu bot reciba una expulsión temporal debido a los límites de velocidad entre cambios de Discord!
 
 ### status
-In status can be these three options "online|idle|dnd", which chooses a status of the bot.
-Online - Green Circle,
-Idle - Yellow Moon,
-Dnd - Red Circle with minus icon
+En el estado, solo pueden haber tres opciones siendo éstas "online|idle|dnd", que elige el estado del bot.
+Online - Círculo verde (o disponible),
+Idle - Círculo amarillo (o ausente),
+Dnd - Círculo rojo con un símbolo de menos (o no molestar)
 
 ### showStatistics
-Toggle true|false to (not) show statisctics in console of the bot (Starts and messages count).
+Establécelo en true|false para (no) mostrar estadísticas en la consola del bot (inicios y contador de mensajes).
 
 ### reloadCommandRoles
-Array of roles, which may use /reload command to reload addon's configuration.
+Un Array (o lista) de roles que pueden usar el comando de /reload para recargar la configuración del bot.
