@@ -1,5 +1,5 @@
 ---
-title: 'ZynoBot - DontPing Addon'
+title: 'ZynoBot - Addon DontPing'
 description: 'ZynoBot - DontPing'
 hide:
     - footer
@@ -8,15 +8,15 @@ icon: material/message-reply-text
 
 # :material-message-reply-text: ZynoBot DontPing Addon
 
-Tired of all the pings from your community?
-Feel free to download the DontPing addon for ZynoBot!
-Disable pinging in any channel for anyone who doesn't have a moderation role!
-Choose whether to delete the ping message or keep it!
-Set your own message to force the community not to ping!
+¿Cansado de todas las menciones de tu comunidad?
+¡Siéntete libre de descargar el DontPing addon para ZynoBot!
+¡Desactiva la mención en cualquier canal que no tenga un rol de moderación!
+¡Elige si el mensaje se eliminará o se mantiene!
+¡Establece tu propio mensaje para forzar a la comunidad a no mencionarte!
 
-Automatically in all tickets and you can configure in which channels it should be restricted!
+¡Automáticamente en todos los tíquets puedes configurar qué canales deben ser restringidos!
 
-## Configuration
+## Configuración
 
 ```json
 {
@@ -30,5 +30,5 @@ Automatically in all tickets and you can configure in which channels it should b
 }
 ```
 
-## Where to get
-This addon for ZynoBot can be downloaded [here](https://builtbybit.com/resources/dontping-zynobot-addon.49086/)
+## Dónde obtenerlo
+Este Addon para ZynoBot puede descargarse [aquí](https://builtbybit.com/resources/dontping-zynobot-addon.49086/)

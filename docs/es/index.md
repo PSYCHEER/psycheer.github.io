@@ -1,18 +1,18 @@
 ---
-title: "PSYCHEER's Documentation"
-description: "Landing site"
+title: "Documentación de PSYCHEER"
+description: "Página principal"
 icon: material/home
 nav: Home
 hide:
   - footer
 ---
-# :material-home: Welcome to PSYCHEER's Documentation
+# :material-home: Bienvenido a la documentación de PSYCHEER
 
-As GitHub allows to have pages on username or organization name and I don't want uselessly spend money on domains, I want to keep this site as https://psycheer.github.io as documentation for all of kind of my products, featuring **NovaBot** as my most advanced code art.
-I'm hopeful about you'll find all of the informations you will need to know, otherwise you can contribute into this wiki or contact me on Discord.
+Como GitHub permite tener páginas en nombres de usuario o nombres de organizaciones y no quiero gastar dinero inútilmente en dominios, mantendré este sitio https://psycheer.github.io como la página de documentación para todos mis productos, iniciando con **NovaBot** como mi primer proyecto de programación serio.
+Espero que encuentres aquí toda la documentación que necesites conocer, de otra forma puedes contribuir en la wiki o contactarme en discord.
 
-## About me
-I’m PSYCHEER, a developer passionate about building tools that connect communities and improve digital experiences. This site is your gateway to my portfolio, featuring NovaBot and other exciting projects crafted to make a difference.
+## Acerca de mí
+Soy PSYCHEER, un desarrollador apasionado que crea herramientas para connectar comunidades y mejorar el entorno digital. Este sitio puede servirte como portafolios, iniciando con NovaBot y otros proyectos que crearé con pasión para hacer notar la diferencia.
 
-## Bug/Review acknowledgment
-Before reporting a bug or writing a review, be sure to check this documentation.
+## Bug/Reseñas
+Antes de reportar un bug o escribir una reseña, por favor revisa esta documentación.

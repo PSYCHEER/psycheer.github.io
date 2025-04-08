@@ -1,33 +1,33 @@
 ---
 title: 'PsyMessagement'
-description: 'Introduction to PsyMessagement'
+description: 'Introducción al plugin PsyMessagement'
 hide:
     - footer
 icon: material/package
 ---
 
 # :material-package: PsyMessagement
-## About plugin
-Currently is plugin built against 1.20 Paper API, possibility of working for lower versions, not tested, not primary.
+## Acerca del plugin
+El plugin actualmente está creado para funcionar con la versión 1.20 de la API de Paper, es posible que funcione en versiones inferiores aunque no está testeado al no ser la versión principal.
 
-Plugin for custom Chat and Join/Leave messages.
-Best choice for Almost-Vanilla servers.
+Plugin para enviar mensajes custom al entrar/salir del servidor.
+La mejor opción para servidores semi-vanilla.
 
-✅ItemsAdder :image: in messages supported.
-✅Vault dependency and some Chat+Permissions plugin (LuckPerms)
+✅ItemsAdder: :image: en los mensajes soportado.
+✅Vault: Dependencias además de los plugins de permisos (LuckPerms)
 
-Commands:
+Comandos:
 
-* /psy - Show information about plugin
-* /psy reload - Reloads plugin configuration (except permissions)
+* /psy - Muestra información del plugin
+* /psy reload - Recarga la configuración del plugin (excepto permisos)
 
-Permissions:
-Permission prefix `psymessagement` + permission suffix
+Permisos:
+Prefijo de permiso `psymessagement` + permiso de sufijo
 
-* psymessagement.admin - reload command
-* psymessagement.colors - permission for MiniMessage parsing, can be changed in configuration
+* psymessagement.admin - comando de recarga
+* psymessagement.colors - permiso para el parseo usando el formado de MiniMessage, puede ser cambiado en la configuración
 
-## Configuration
+## Configuración
 
 ```yml
 Messages:
@@ -44,20 +44,20 @@ debug: false
 Version: 1.0.8
 ```
 
-Currently supported placeholders are:
+Los Placeholders soportados de momento son:
 
-* %PREFIX% - Prefix of Player accessed via Vault
-* %PLAYER% - Name of the player - unchanged
-* %DISPLAY_NAME% - Display name of the player (with prefix and suffix if stated)
-* %SUFFIX% - Suffix of player accessed via Vault
+* %PREFIX% - Prefijo del jugador al cuál accedemos vía Vault
+* %PLAYER% - Nombre del jugador sin cambios
+* %DISPLAY_NAME% - Nombre del jugador con y sin prefijos si están definidos
+* %SUFFIX% - Sufijo del jugador al cuál accedemos vía Vault
 
-Only for `format`:
+Solo para la sección `format`:
 
-* %CUSTOM% - Custom player and message divider provided via `custom` field
-* %MESSAGE% - Message placeholder - have to be always present!
+* %CUSTOM% - Divisor para el mensaje y el jugador custom que se obtiene del valor `custom`
+* %MESSAGE% - Placeholder del mensaje - ¡Siempre debe estar presente!
 
 !!! warning
-    Only MiniMessage is supported ex. <gold><bold>TEXT</gold></bold> <#FFAA00>SAMPLE</#FFAA00>. After permission change is needed to restart the server.
+    Solo soporta MiniMessages ej. <gold><bold>TEXTO</gold></bold> <#FFAA00>PRUEBA</#FFAA00>. Después de cambiar un permiso, debes reiniciar el servidor.
 
-## Where to get PsyMessagement
-PsyMessagement can be found for download [here](https://modrinth.com/plugin/psymessagement)
+## Dónde obtener PsyMessagement
+PsyMessagement puede descargarse [aquí](https://modrinth.com/plugin/psymessagement)
