@@ -1,6 +1,6 @@
 ---
-title: 'Contributors'
-description: 'List of contributors'
+title: 'Colaboradores'
+description: 'Lista de los colaboradores al proyecto'
 hide:
     - footer
 icon: material/translate
@@ -8,8 +8,8 @@ icon: material/translate
 
 # Contributors
 
-[ReimaginedPixel](https://github.com/ReimaginedPixel) - Thank you for Polish translation.
+[ReimaginedPixel](https://github.com/ReimaginedPixel) - Gracias por su traducción al Polaco.
 
-Sistemas - Thank you for Spanish translation.
+Sistemas - Gracias por su traducción al Español.
 
-Astaspasta - Thank you for testings.
+Astaspasta - Gracias por sus pruebas y testeos.
