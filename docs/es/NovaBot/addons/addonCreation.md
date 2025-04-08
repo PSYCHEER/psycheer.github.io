@@ -1,16 +1,19 @@
 ---
-title: Creation of Add-on
-description: Guide to Add-on system of NovaBot
+title: Creación de un Addon
+description: Guía del sistema de Addons de NovaBot
 icon: material/format-paint
 ---
 
-# :material-format-paint: **Add-on Creation**
+# :material-format-paint: **Creación de Addons**
 
-Doing addon for NovaBot is simple
+Crear un Addon para NovaBot es sencillo.
 
-## Folder Structure
+??? tip
+    Debido al idioma original (en inglés), los códigos ejemplificados se mantendrán en ese mismo idioma durante esta guía, aunque se pueden modificar esos textos sin ningún problema.
 
-```yml title="Folder Structure" hl_lines="4"
+## Estructura de las carpetas
+
+```yml title="Estructura de las carpetas" hl_lines="4"
 novabot:
   - index.js
   - addons:
@@ -22,12 +25,12 @@ novabot:
         - command.js
 ```
 
-To ensure NovaBot will read all files in order, we have to strictly follow folder structure.
-NovaBot automatically register all commands inside of `commadns` folder and register all events in `events` folder.
+Para verificar que NovaBot leerá todos los archivos en orden, se debe seguir estrictamente la estructura de las carpetas.
+NovaBot automáticamente registrará todos los comandos dentro de la carpeta `commands` y registrará todos los eventos dentro de la carpeta `events`.
 
 ## index.js
 
-```js title="Simple index.js" linenums="1"
+```js title="index.js simple" linenums="1"
 async function myFunction(){
     console.log("Hello World!");
 }
@@ -40,13 +43,13 @@ module.exports = {
   myFunction
 ```
 
-This is simple `index.js`.
-As you can see, `module.exports` exports `name`, `version`, `author` and `description`.
-These variables are important for NovaBot to have, so it can show in /reload and in console upon start.
+Esto es un simple `index.js`.
+Como puedes ver, `module.exports` exporta los campos `name`, `version`, `author` y `description`.
+Estas variables son importantes para NovaBot, ya que los mostrará en el /reload y en la consola cuando inicie.
 
 ## command.js
 
-```js title="Simple command.js" linenums="1"
+```js title="command.js simple" linenums="1"
 const { SlashCommandBuilder, MessageFlags } = require("discord.js");
 
 const { myFunction } = require("../index.js");
@@ -66,10 +69,10 @@ module.exports = {
     }
 }
 ```
-This will create a simple slash (/) command for our bot which calls `myFunction` function which will say "Hello World!" into console.
+Esto creará un simple comando (/command) para nuestro bot que llamarà a la función `myFunction` la cuál dirá "Hello world!" en la consola.
 
 ## event.js
-```js title="Simple event" linenums="1"
+```js title="Evento simple" linenums="1"
 
 module.exports = {
     name: "messageCreate",
@@ -79,7 +82,7 @@ module.exports = {
 }
 
 ```
-This will send "000000000000000000 wrote MyMessageContent" into console every time a user send a message.
+Esto enviará el mensaje "000000000000000000 wrote MyMessageContent" en la consola cada vez que alguien envíe un mensaje.
 
 !!! success
-    We are done! Hope you will unleash your creativity!
+    ¡Ya estamos! ¡Esperamos que esto ayude a liberar tu creatividad!

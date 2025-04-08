@@ -23,7 +23,7 @@ novabot:
 ```
 
 To ensure NovaBot will read all files in order, we have to strictly follow folder structure.
-NovaBot automatically register all commands inside of `commadns` folder and register all events in `events` folder.
+NovaBot automatically register all commands inside of `commands` folder and register all events in `events` folder.
 
 ## index.js
 
