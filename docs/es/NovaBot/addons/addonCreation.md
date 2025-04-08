@@ -8,7 +8,7 @@ icon: material/format-paint
 
 Crear un Addon para NovaBot es sencillo.
 
-??? tip
+!!! warning "Acerca de las variables en inglés"
     Debido al idioma original (en inglés), los códigos ejemplificados se mantendrán en ese mismo idioma durante esta guía, aunque se pueden modificar esos textos sin ningún problema.
 
 ## Estructura de las carpetas
