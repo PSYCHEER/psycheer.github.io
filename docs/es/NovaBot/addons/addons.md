@@ -1,23 +1,23 @@
 ---
-title: Add-ons Installation
-description: Add addons to the bot
+title: Instalación de Addons
+description: Añade addons a tu bot
 icon: octicons/diff-added-16
 ---
 
-# :octicons-diff-added-16: **Add-ons**
+# :octicons-diff-added-16: **Addons**
 
-## Customizing Your NovaBot Experience with Add-ons
+## Customiza tu experiencia NovaBot con Addons
 
-Enhance your NovaBot experience with add-ons! Add-ons provide a flexible way to customize your bot, allowing you to tailor its functionality to your specific needs.
+¡Mejora tu experiencia NovaBot con Addons! Los Addons (o complementos) proveen una forma flexible de customizar tu bot, permitiéndote potenciar sus funcionalidades con tus necesidades más específicas.
 
-Whether you want to add new features or remove unnecessary ones, add-ons offer a modular approach to customization, ensuring a smooth and user-friendly experience.
+Cuando necesites nuevas funciones o eliminar algunas innecesarias, los addons te ofrecen una forma modular de customizarlo, asegurando una experiencia agradable y fácil de usar.
 
-### Installing Add-ons
+### Instalando Addons
 
-Installing add-ons in NovaBot is straightforward. Simply follow these steps:
+Instalar Addons en NovaBot es muy rápido. Simplemente sigue estos pasos:
 
-1. Drag and drop the add-on folder into the `addons` directory located in the root folder of the bot.
-2. Configure the add-on settings as needed.
-3. Restart NovaBot, and your add-on will be ready to use!
+1. Arrastra la carpeta de Addons dentro del directorio llamado `addons` ubicado en la carpeta raíz (o root) de tu bot.
+2. Configura el Addon según tus necesidades.
+3. Reinicia Novabot, ¡tu Addon debería estar listo para usar!
 
-With these easy steps, you can quickly enhance your NovaBot with additional features and functionality.
+Con estos sencillos pasos, puedes mejorar rápidamente tu Novabot con mejoras addicionales y funciones únicas.
