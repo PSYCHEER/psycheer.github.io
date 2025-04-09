@@ -8,7 +8,7 @@ hide:
 
 ::timeline::
 
-- content: Live on BuiltByBit and after approvsl!
+- content: Live on BuiltByBit and after approval!
   icon: ':simple-builtbybit:'
   sub_title: 08.04.2025
   title: We are alive!
