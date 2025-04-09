@@ -21,7 +21,7 @@ hide:
 - content: Traducciones y refactorización de la documentación de NovaBot.
   icon: ':material-translate:'
   sub_title: 02.02.2025
-  title: 'Traducciones!
+  title: ¡Traducciones!
 
 - content: Creación de la documentación.
   icon: ':simple-materialformkdocs:'
