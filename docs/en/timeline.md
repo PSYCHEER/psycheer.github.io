@@ -8,6 +8,11 @@ hide:
 
 ::timeline::
 
+- content: Live on BuiltByBit and after approvsl!
+  icon: ':simple-builtbybit:'
+  sub_title: 08.04.2025
+  title: We are alive!
+
 - content: GitHub issue templates and roadmap project to check progress of Nova a bit better!
   icon: ':material-update:'
   sub_title: 26.02.2025
