@@ -140,25 +140,25 @@ plugins:
         - locale: pl
           name: Polski
           site_name: Dokumentacje PSYCHEER
-          copyright: Wykonane z ❤️ przez <a href="https://github.com/PSYCHEER">PSYCHEER</a>
+          copyright: Stworzone z ❤️ przez <a href="https://github.com/PSYCHEER">PSYCHEER</a>
           admonition_translations:
             success: Sukces
             tip: Wskazówki
-            warning: Ostrzeżenie
+            warning: Uwaga
             danger: Zagrożenie
           nav:
-            - Dom: pl/index.md
+            - Home: pl/index.md
             - NovaBot:
               - Dlaczego wybrać NovaBot: pl/NovaBot/novaIndex.md
               - Konfiguracja bota: pl/NovaBot/setup.md
               - Konfiguracja: pl/NovaBot/config.md
               - Dodatki:
                 - Instalacja: pl/NovaBot/addons/addons.md
-                - Wykaz: pl/NovaBot/addons/list.md
+                - Lista: pl/NovaBot/addons/list.md
                 - Tworzenie: pl/NovaBot/addons/addonCreation.md
               - FAQ: pl/NovaBot/faq.md
               - Oś czasu: pl/timeline.md
-            - ZynoBot DontPing Dodatek:
+            - Dodatek ZynoBot DontPing:
               - Wprowadzenie: pl/ZynoBot - DontPing Addon/index.md
             - PsyMessagement:
               - Wprowadzenie: pl/PsyMessagement/index.md
