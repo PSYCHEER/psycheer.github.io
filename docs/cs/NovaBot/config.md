@@ -31,6 +31,9 @@ bot:
     ...
 ```
 
+!!! warning "Čtěte pozorně"
+    Plně okomentovaná konfigurace je v `/files/config.yml`
+
 !!! warning "Neměňte verzi"
     Je to pro bota, aby zkontroloval, která verze je spuštěná a aktualizoval konfiguraci!
 

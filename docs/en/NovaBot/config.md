@@ -31,6 +31,9 @@ bot:
     ...
 ```
 
+!!! warning "Read carefully"
+    Fully commented configuration is in `/files/config.yml`
+
 !!! warning "Do not change version"
     It's for bot to check which version is on and update config!
 
