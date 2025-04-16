@@ -104,6 +104,8 @@ plugins:
               - Introduction: en/ZynoBot - DontPing Addon/index.md
             - PsyMessagement:
               - Introduction: en/PsyMessagement/index.md
+            - TradeManager:
+              - Introduction: en/TradeManager/index.md
             - Contribution:
               - Contributors: en/Contribution/contributors.md
               - How to contribute: en/Contribution/howto.md
