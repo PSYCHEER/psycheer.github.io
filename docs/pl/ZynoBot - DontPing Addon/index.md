@@ -28,3 +28,4 @@ Automatycznie we wszystkich zgłoszeniach, a także możesz skonfigurować, na k
     "deleteping": "true",
     "warnmessage": "{MENTION} do not ping the staff!"
 }
+```
