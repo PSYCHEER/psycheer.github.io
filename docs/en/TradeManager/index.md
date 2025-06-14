@@ -18,5 +18,5 @@ TradeManager(Plus) is a powerful plugin designed to simplify villager trade mana
 !!! warning
     **Requires Java 21+**
 
-[Get TradeManagerPlus](https://www.spigotmc.org/resources/trademanagerplus-1-20-x-1-21-5-villager-trade-control-custom-item-support.122864/)(Paid)  
+[Get TradeManagerPlus](https://www.spigotmc.org/resources/trademanagerplus-1-20-x-1-21-5-villager-trade-control-custom-item-support.122864/)(Paid)   
 [Get TradeManager](https://www.spigotmc.org/resources/trademanager-1-20-x-1-21-5-villager-trade-control-custom-item-support.117737/)(Free)
