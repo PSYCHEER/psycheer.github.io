@@ -60,28 +60,20 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
-nav:
-  - Home: en/index.md
-  - NovaBot:
-    - Why to choose NovaBot: en/NovaBot/novaIndex.md
-    - Setting up the bot: en/NovaBot/setup.md
-    - Addons:
-      - Installation: en/NovaBot/addons/addons.md
-      - List: en/NovaBot/addons/list.md
-      - Creation: en/NovaBot/addons/addonCreation.md
-
 plugins:
   - section-index
   - search:
+      prebuilt_index: true
       lang:
         - en
-        - cs
+        - cz
         - es
         - pl
   - social
 
   - i18n:
       docs_structure: folder
+      reconfigure_search: true
       languages:
         - locale: en
           default: True
@@ -106,6 +98,7 @@ plugins:
               - Introduction: en/PsyMessagement/index.md
             - TradeManager:
               - Introduction: en/TradeManager/index.md
+              - Commands & Permissions: en/TradeManager/commandpermissions.md
             - Contribution:
               - Contributors: en/Contribution/contributors.md
               - How to contribute: en/Contribution/howto.md
