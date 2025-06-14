@@ -62,13 +62,11 @@ markdown_extensions:
 
 plugins:
   - section-index
+  - glightbox
   - search:
-      prebuilt_index: true
       lang:
         - en
-        - cz
         - es
-        - pl
   - social
 
   - i18n:
@@ -99,6 +97,7 @@ plugins:
             - TradeManager:
               - Introduction: en/TradeManager/index.md
               - Commands & Permissions: en/TradeManager/commandpermissions.md
+              - GUI: en/TradeManager/gui.md
             - Contribution:
               - Contributors: en/Contribution/contributors.md
               - How to contribute: en/Contribution/howto.md

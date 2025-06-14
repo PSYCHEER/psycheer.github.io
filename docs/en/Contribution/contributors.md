@@ -10,6 +10,6 @@ icon: material/translate
 
 [ReimaginedPixel](https://github.com/ReimaginedPixel) - Thank you for Polish translation.
 
-Sistemas - Thank you for Spanish translation.
+[Sistemas](https://github.com/SistemasCPU) - Thank you for Spanish translation.
 
 Astaspasta - Thank you for testings.

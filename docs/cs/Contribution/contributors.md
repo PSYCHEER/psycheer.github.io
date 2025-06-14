@@ -10,6 +10,6 @@ icon: material/translate
 
 [ReimaginedPixel](https://github.com/ReimaginedPixel) - Děkujeme za polský překlad.
 
-Sistemas - Děkujeme za španělský překlad.
+[Sistemas](https://github.com/SistemasCPU) - Děkujeme za španělský překlad.
 
 Astaspasta - Děkujeme za testování.
