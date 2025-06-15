@@ -4,11 +4,11 @@ description: "Learn about TradeManager commands!"
 icon: material/typewriter
 ---
 
-# Commands & Permissions
+# ✍️Commands & Permissions🦾
 
 ## Commands ✍️
 
-This plugin has an awesome in-game GUI manager which can be opened with `/trademanager`!
+`/trademanager` - in-game GUI editor
 
 ## Permissions 🦾
 

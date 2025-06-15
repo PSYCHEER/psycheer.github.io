@@ -98,6 +98,7 @@ plugins:
               - Introduction: en/TradeManager/index.md
               - Commands & Permissions: en/TradeManager/commandpermissions.md
               - GUI: en/TradeManager/gui.md
+              - FAQ: en/TradeManager/faq.md
             - Contribution:
               - Contributors: en/Contribution/contributors.md
               - How to contribute: en/Contribution/howto.md
