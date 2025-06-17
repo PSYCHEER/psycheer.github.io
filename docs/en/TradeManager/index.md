@@ -12,6 +12,10 @@ TradeManager(Plus) is a robust plugin that streamlines villager trade management
 See **Features** below
 
 
+!!! warning "TradeManager vs TradeManagerPlus"
+    TradeManager is the free version of the plugin, while TradeManagerPlus is the premium version with additional features.  
+    If you want to use all features, please consider purchasing **TradeManagerPlus**.
+
 ??? tip "Features"
     * Disable vanilla trades with ease.
     * Control villager spawning
