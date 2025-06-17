@@ -90,15 +90,15 @@ plugins:
                 - Creation: en/NovaBot/addons/addonCreation.md
               - FAQ: en/NovaBot/faq.md
               - Timeline: en/timeline.md
-            - ZynoBot DontPing Addon:
-              - Introduction: en/ZynoBot - DontPing Addon/index.md
-            - PsyMessagement:
-              - Introduction: en/PsyMessagement/index.md
             - TradeManager:
               - Introduction: en/TradeManager/index.md
               - Commands & Permissions: en/TradeManager/commandpermissions.md
               - GUI: en/TradeManager/gui.md
               - FAQ: en/TradeManager/faq.md
+            - PsyMessagement:
+              - Introduction: en/PsyMessagement/index.md
+            - ZynoBot DontPing Addon:
+              - Introduction: en/ZynoBot - DontPing Addon/index.md
             - Contribution:
               - Contributors: en/Contribution/contributors.md
               - How to contribute: en/Contribution/howto.md
