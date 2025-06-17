@@ -1,10 +1,10 @@
 ---
 title: "TradeManager - FAQ"
 description: "Learn about most common questions!"
-icon: fontawesome/solid/question
+icon: material/frequently-asked-questions
 ---
 
-# :fontawesome-solid-question: FAQ
+# :material-frequently-asked-questions: FAQ
 
 ??? question "I have XXX issue"
     Be sure to use Java 21 or newer and provide full server log trough [mclo.gs](https://mclo.gs/) or [PsyPaste](https://paste.crafttale.eu/) for our support team to provide you the best support.
