@@ -23,6 +23,7 @@ See **Features** below
     * Set stock limits and adjust trade probabilities.
     * Block specific villager types from spawning.
     * Change currency villager will take.
+    * Set money alongisde items in trades.
     * Supports Nexo and ItemsAdder.
     * Wandering Trader supported too.
     !!! warning

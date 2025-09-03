@@ -7,8 +7,11 @@ icon: material/typewriter
 # ✍️Commands & Permissions🦾
 
 ## Commands ✍️
+??? note "Explanations"
+    `<required> [optional]`
 
-`/trademanager` - in-game GUI editor
+`/trademanager` - in-game GUI editor  
+`/trademanager money <value>` - Creates a `<value>` money item
 
 ## Permissions 🦾
 
