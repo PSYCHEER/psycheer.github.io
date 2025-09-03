@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://psycheer.github.io/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/timeline/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/timeline/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/timeline/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/timeline/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/timeline/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/Contribution/contributors/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/Contribution/contributors/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/Contribution/contributors/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/Contribution/contributors/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/Contribution/contributors/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/Contribution/howto/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/Contribution/howto/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/Contribution/howto/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/Contribution/howto/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/Contribution/howto/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/NovaBot/config/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/config/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/config/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/config/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/config/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/NovaBot/faq/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/faq/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/faq/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/faq/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/NovaBot/novaIndex/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/novaIndex/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/novaIndex/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/novaIndex/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/novaIndex/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/NovaBot/setup/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/setup/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/setup/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/setup/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/setup/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/NovaBot/addons/addonCreation/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/addons/addonCreation/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/addons/addonCreation/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/addons/addonCreation/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/addons/addonCreation/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/NovaBot/addons/addons/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/addons/addons/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/addons/addons/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/addons/addons/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/addons/addons/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/NovaBot/addons/list/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/addons/list/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/addons/list/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/addons/list/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/addons/list/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/PsyMessagement/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/PsyMessagement/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/PsyMessagement/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/PsyMessagement/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/PsyMessagement/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/TradeManager/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/TradeManager/commandpermissions/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/commandpermissions/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/commandpermissions/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/commandpermissions/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/commandpermissions/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/TradeManager/faq/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/faq/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/faq/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/faq/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/TradeManager/gui/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/gui/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/gui/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/gui/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/gui/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/ZynoBot%20-%20DontPing%20Addon/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/ZynoBot%20-%20DontPing%20Addon/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/ZynoBot%20-%20DontPing%20Addon/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/ZynoBot%20-%20DontPing%20Addon/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/ZynoBot%20-%20DontPing%20Addon/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/timeline/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/timeline/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/timeline/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/timeline/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/timeline/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/Contribution/contributors/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/Contribution/contributors/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/Contribution/contributors/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/Contribution/contributors/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/Contribution/contributors/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/Contribution/howto/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/Contribution/howto/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/Contribution/howto/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/Contribution/howto/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/Contribution/howto/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/NovaBot/config/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/config/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/config/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/config/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/config/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/NovaBot/faq/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/faq/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/faq/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/faq/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/NovaBot/novaIndex/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/novaIndex/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/novaIndex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/novaIndex/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/novaIndex/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/NovaBot/setup/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/setup/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/setup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/setup/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/setup/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/NovaBot/addons/addonCreation/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/addons/addonCreation/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/addons/addonCreation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/addons/addonCreation/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/addons/addonCreation/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/NovaBot/addons/addons/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/addons/addons/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/addons/addons/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/addons/addons/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/addons/addons/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/NovaBot/addons/list/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/addons/list/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/addons/list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/addons/list/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/addons/list/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/PsyMessagement/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/PsyMessagement/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/PsyMessagement/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/PsyMessagement/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/PsyMessagement/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/TradeManager/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/TradeManager/commandpermissions/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/commandpermissions/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/commandpermissions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/commandpermissions/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/commandpermissions/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/TradeManager/faq/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/faq/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/faq/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/faq/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/TradeManager/gui/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/gui/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/gui/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/gui/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/gui/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/es/ZynoBot%20-%20DontPing%20Addon/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/ZynoBot%20-%20DontPing%20Addon/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/ZynoBot%20-%20DontPing%20Addon/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/ZynoBot%20-%20DontPing%20Addon/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/ZynoBot%20-%20DontPing%20Addon/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/timeline/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/timeline/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/timeline/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/timeline/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/timeline/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/Contribution/contributors/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/Contribution/contributors/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/Contribution/contributors/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/Contribution/contributors/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/Contribution/contributors/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/Contribution/howto/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/Contribution/howto/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/Contribution/howto/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/Contribution/howto/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/Contribution/howto/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/NovaBot/config/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/config/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/config/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/config/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/config/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/NovaBot/faq/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/faq/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/faq/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/NovaBot/novaIndex/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/novaIndex/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/novaIndex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/novaIndex/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/novaIndex/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/NovaBot/setup/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/setup/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/setup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/setup/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/setup/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/NovaBot/addons/addonCreation/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/addons/addonCreation/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/addons/addonCreation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/addons/addonCreation/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/addons/addonCreation/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/NovaBot/addons/addons/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/addons/addons/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/addons/addons/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/addons/addons/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/addons/addons/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/NovaBot/addons/list/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/addons/list/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/addons/list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/addons/list/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/addons/list/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/PsyMessagement/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/PsyMessagement/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/PsyMessagement/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/PsyMessagement/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/PsyMessagement/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/TradeManager/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/TradeManager/commandpermissions/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/commandpermissions/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/commandpermissions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/commandpermissions/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/commandpermissions/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/TradeManager/faq/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/faq/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/faq/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/TradeManager/gui/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/gui/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/gui/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/gui/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/gui/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/pl/ZynoBot%20-%20DontPing%20Addon/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/ZynoBot%20-%20DontPing%20Addon/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/ZynoBot%20-%20DontPing%20Addon/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/ZynoBot%20-%20DontPing%20Addon/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/ZynoBot%20-%20DontPing%20Addon/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/timeline/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/timeline/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/timeline/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/timeline/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/timeline/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/Contribution/contributors/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/Contribution/contributors/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/Contribution/contributors/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/Contribution/contributors/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/Contribution/contributors/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/Contribution/howto/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/Contribution/howto/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/Contribution/howto/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/Contribution/howto/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/Contribution/howto/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/NovaBot/config/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/config/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/config/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/config/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/config/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/NovaBot/faq/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/faq/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/faq/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/NovaBot/novaIndex/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/novaIndex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/novaIndex/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/novaIndex/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/novaIndex/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/NovaBot/setup/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/setup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/setup/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/setup/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/setup/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/NovaBot/addons/addonCreation/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/addons/addonCreation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/addons/addonCreation/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/addons/addonCreation/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/addons/addonCreation/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/NovaBot/addons/addons/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/addons/addons/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/addons/addons/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/addons/addons/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/addons/addons/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/NovaBot/addons/list/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/NovaBot/addons/list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/NovaBot/addons/list/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/NovaBot/addons/list/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/NovaBot/addons/list/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/PsyMessagement/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/PsyMessagement/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/PsyMessagement/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/PsyMessagement/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/PsyMessagement/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/ZynoBot%20-%20DontPing%20Addon/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/ZynoBot%20-%20DontPing%20Addon/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/ZynoBot%20-%20DontPing%20Addon/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/ZynoBot%20-%20DontPing%20Addon/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/ZynoBot%20-%20DontPing%20Addon/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/TradeManager/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/TradeManager/commandpermissions/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/commandpermissions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/commandpermissions/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/commandpermissions/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/commandpermissions/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/TradeManager/faq/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/faq/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/faq/"/>
+    </url>
+    <url>
+        <loc>https://psycheer.github.io/cs/TradeManager/gui/</loc>
+        <lastmod>2025-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://psycheer.github.io/cs/TradeManager/gui/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://psycheer.github.io/TradeManager/gui/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://psycheer.github.io/es/TradeManager/gui/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://psycheer.github.io/pl/TradeManager/gui/"/>
+    </url>
+</urlset>
